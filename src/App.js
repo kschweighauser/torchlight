@@ -12,22 +12,28 @@ import Terms from './components/Terms';
 
 function App() {
   return (
-    <Router>
-    <div>
-      <Nav />
-      <Header />
-      <Switch>
-        <Route path="/" exact component={Home} />
-        <Route path="/about" component={About} />
-        <Route path="/events" component={Events} />
-        <Route path="/events/addevent" exact component={AddEvent} />
-        <Route path="/events/postevent" component={PostEvent} />
-        <Route path="/terms" component={Terms} />
-      </Switch>
-      <Footer />
-    </div>
-    </Router>
-
+    <>
+      <div>
+        <AddEvent />
+      </div>
+      <div>
+        <Router>
+          <div>
+            <Nav />
+            <Header />
+            <Switch>
+              <Route path="/" exact component={Home} />
+              <Route path="/about" component={About} />
+              <Route path="/events" component={Events} />
+              {/* <Route path="/events/addevent" component={AddEvent} /> */}
+              <Route path="/events/postevent" component={PostEvent} />
+              <Route path="/terms" component={Terms} />
+            </Switch>
+            <Footer />
+          </div>
+        </Router>
+      </div>
+    </>
   );
 }
 

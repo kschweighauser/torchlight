@@ -1,0 +1,2636 @@
+{
+   "@version": "2.0",
+   "channel": {
+      "title": "Events at Stanford: featured events",
+      "link": [
+         "http://events.stanford.edu",
+         {
+            "@href": "http://events.stanford.edu/xml/rss.xml",
+            "@rel": "self"
+         }
+      ],
+      "description": "Comprehensive, university-wide event calendar for Stanford University",
+      "copyright": "Copyright (C) The Board of Trustees of the Leland Stanford Junior University",
+      "language": "en-us",
+      "image": {
+         "url": "http://events.stanford.edu/images/events_logo.gif",
+         "title": "Events at Stanford: featured events",
+         "link": "http://events.stanford.edu"
+      },
+      "item": [
+         {
+            "title": "Center for Population Health Sciences | Seminar Series: Lauren Gaydosh",
+            "link": "http://events.stanford.edu/events/861/86103",
+            "guid": "http://events.stanford.edu/events/861/86103",
+            "description": [
+               "Date: Monday, January 13, 2020. 2:00 PM.",
+               "Location: Li Ka Shing Center, LK 320, 3rd floor, 291 Campus Drive, Stanford, CA 94305",
+               [
+                  {
+                     "strong": {
+                        "#text": [
+                           "Lauren Gaydosh",
+                           "Assistant Professor",
+                           "Center for Medicine, Health, and Society Public Policy Studies",
+                           "Vanderbilt University"
+                        ],
+                        "br": [
+                           [],
+                           []
+                        ]
+                     }
+                  },
+                  {
+                     "em": {
+                        "strong": {
+                           "#text": "The Depth of Despair among US Young Adults",
+                           "br": []
+                        },
+                        "br": [
+                           []
+                        ],
+                        "#text": "Known as the deaths of despair, the drivers of increasing midlife mortality are under debate, and the role of hopeless and despair is unclear. Using data from the nationally representative National Longitudinal Study of Adolescent to Adult Health (Add Health), I test whether increases in indicators of despair have been particularly acute among White, low-educated, rural members of the cohort."
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Tue, 10 Dec 2019 15:48:09 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/861/86103/86103-1.jpg",
+               "@length": "47360"
+            }
+         },
+         {
+            "title": "Energy Seminar: Lynn Jurich, Sunrun",
+            "link": "http://events.stanford.edu/events/858/85855",
+            "guid": "http://events.stanford.edu/events/858/85855",
+            "description": [
+               "Date: Monday, January 13, 2020. 4:30 PM.",
+               "Location: NVIDIA Auditorium, Jen-Hsun Huang Engineering Center",
+               [
+                  {
+                     "strong": "Speaker bio:"
+                  },
+                  "Lynn Jurich is chief executive officer and co-founder of Sunrun (Nasdaq: RUN), the nation’s largest dedicated provider of residential solar, storage and energy services in the United States. With Sunrun co-founder Ed Fenster, Lynn invented the business model “solar as a service” that unlocked consumer demand for clean, affordable energy direct from residential rooftops. Today with more than $3 billion in installed solar systems across 22 states and the District of Columbia, Sunrun is revolutionizing how consumers get electricity.",
+                  "Before Sunrun, Lynn worked at Summit Partners, whereas one of few female venture capitalists, she completed investments with an aggregate market value of over $900 million in the financial services and technology sectors. Lynn was named one of Fast Company’s Most Creative People in Business in 2013 and Forbes’ Women to Watch in 2015. Lynn earned her BS in Science, Technology and Society and MBA from Stanford University.",
+                  {
+                     "strong": {
+                        "#text": "Admission Info",
+                        "br": []
+                     },
+                     "#text": "Free and open to all."
+                  }
+               ]
+            ],
+            "pubDate": "Wed, 11 Dec 2019 14:13:18 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/858/85855/85855-1.jpg",
+               "@length": "39940"
+            }
+         },
+         {
+            "title": "AI for Good Seminar Series - AI for Nonprofits",
+            "link": "http://events.stanford.edu/events/862/86288",
+            "guid": "http://events.stanford.edu/events/862/86288",
+            "description": [
+               "Date: Monday, January 13, 2020. 4:30 PM.",
+               "Location: William R. Hewlett Teaching Center (Room 200) - 370 Serra Mall, Stanford, CA 94305",
+               {
+                  "p": [
+                     {
+                        "strong": "The Nonprofit Sector | Google AI Impact Challenge Grantees"
+                     },
+                     "Breakthroughs in technology often have humble origins. Through it's Google AI Impact Challenge grant program, Google.org lends a helping hand to nonprofit innovators and social entrepreneurs who are using the power of AI to address social and environmental challenges. This session will feature a panel of Google.org Impact Challenge Grantees who are using AI and machine learning to tackle issues affecting the environment, educational equity, at-risk youth, and mental helath.",
+                     "Panelists:",
+                     "Panel Moderator:",
+                     {
+                        "#text": "Livestream this event here:",
+                        "a": {
+                           "@href": "https://livestream.com/accounts/1973198/AI-For-Good",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "https://livestream.com/accounts/1973198/AI-For-Good"
+                        }
+                     }
+                  ],
+                  "ul": [
+                     {
+                        "strong": "Heejae Lim",
+                        "#text": [
+                           ", Founder and CEO,",
+                           "- TalkingPoints drives student success in low-income, diverse areas through AI-enabled two-way translated communication and personalized coaching content that guides parents' engagement with teachers and at home with their children, thereby building strong partnerships across families, schools, and communities."
+                        ],
+                        "a": {
+                           "@href": "https://talkingpts.org/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "TalkingPoints"
+                        }
+                     },
+                     {
+                        "strong": "Grace Mitchell",
+                        "#text": [
+                           ", Data Analyst,",
+                           "- WattTime is a nonprofit that offers technology solutions that make it easy for anyone to achieve emissions reductions without compromising cost, comfort, and function."
+                        ],
+                        "a": {
+                           "@href": "https://www.watttime.org/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "WattTime"
+                        }
+                     },
+                     {
+                        "strong": "TBC",
+                        "#text": [
+                           "from",
+                           "The Trevor Project saves lives by supporting at-risk LGBTQ youth via phone, text, and chat. Using natural language processing and sentiment analysis, counselors will be able to determine a LGBTQ youth’s suicide risk level, and better tailor services for individuals seeking help."
+                        ],
+                        "a": {
+                           "@href": "https://www.thetrevorproject.org/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "The Trevor Project.org"
+                        }
+                     },
+                     {
+                        "li": {
+                           "strong": "Mollie Javerbaum",
+                           "#text": [
+                              ", Google.org - The",
+                              "was an open call to organizations to submit their ideas on how AI could help address societal challenges. Out of more than 2,600 proposals from 119 countries, Google selected 20 organizations to support with a total of $25M in grant funding from Google.org, coaching from Google’s AI experts, credit and consulting from Google Cloud, and inclusion in a custom accelerator program."
+                           ],
+                           "a": {
+                              "@href": "http://ai.google/social-good/impact-challenge/",
+                              "@target": "_blank",
+                              "@rel": "noopener",
+                              "#text": "Google AI Impact Challenge"
+                           }
+                        }
+                     }
+                  ]
+               }
+            ],
+            "pubDate": "Thu, 09 Jan 2020 10:21:30 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86288/86288-1.jpg",
+               "@length": "90811"
+            }
+         },
+         {
+            "title": "Tuesday Farm Volunteer Hours",
+            "link": "http://events.stanford.edu/events/681/68143",
+            "guid": "http://events.stanford.edu/events/681/68143",
+            "description": [
+               "Date: Ongoing from January 14, 2020 through June 16, 2020. See details for exact dates and times.",
+               "Location: The O'Donohue Family Stanford Educational Farm",
+               [
+                  "Do you like to get your hands dirty? Do you enjoy gardening or being outdoors? Then The O'Donohue Family Stanford Educational Farm (on campus) is the place for you! We hosts drop in volunteer hours every Tuesday, Thursday from 8:30-11:30am and Saturdays from 9:30am-12:00pm. Be sure to check our website for any scheduling changes before coming to volunteer.",
+                  "Volunteers will help harvest, weed, plant and learn so much more.",
+                  "No need to sign up and no prior experience is required but close toed shoes and clothes you don't mind getting dirty are!",
+                  {
+                     "#text": "Please be sure to fill out our waiver before joining us:",
+                     "a": {
+                        "@href": "https://stanforduniversity.qualtrics.com/jfe/form/SV_a8KjJRPy7AwpS61",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://stanforduniversity.qualtrics.com/jfe/form/SV_a8KjJRPy7AwpS61"
+                     }
+                  },
+                  "Children 10 and older welcome to volunteer alongside a responsible adult."
+               ]
+            ],
+            "pubDate": "Tue, 07 Jan 2020 16:01:12 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/681/68143/68143-7.jpg",
+               "@length": "221878"
+            }
+         },
+         {
+            "title": "The Unforgettable Queens of Islam",
+            "link": "http://events.stanford.edu/events/858/85811",
+            "guid": "http://events.stanford.edu/events/858/85811",
+            "description": [
+               "Date: Tuesday, January 14, 2020. 12:00 PM.",
+               "Location: Encina Commons 123",
+               [
+                  {
+                     "em": "The Unforgettable Queens of Islam",
+                     "#text": "explores the lives and legacies of several Muslim women rulers from different cultures and historical periods who were at the forefront of the political scene, contesting patriarchal rules of dynastic succession and electoral competition to become sovereign leaders in medieval Yemen and India, and modern Pakistan and Indonesia."
+                  },
+                  {
+                     "#text": [
+                        "The written history of Islam and the Muslim world is overwhelmingly masculine, having largely ignored women and their contributions until well into the 20th century.  Religious and legal justifications have been systematically invoked to justify Muslim women’s banishment from politics and public domains.  Yet this patriarchal domination has not gone on without serious challenges by women - sporadic and exceptional though their participation in the battle of succession has been.",
+                        "highlights lives and legacies of a number of charismatic women engaged in fierce battles of succession, and their stories offer striking insights into the workings of political power in the Muslim world."
+                     ],
+                     "em": "The Unforgettable Queens of Islam"
+                  },
+                  {
+                     "#text": [
+                        "A former director of the Women's Studies Program at Boston University,",
+                        "is one of the pioneers of Iranian Anthropology, and has produced cutting-edge ethnographies of Iran, Pakistan and the Muslim world.  Her landmark books include her classic ethnography,",
+                        "(1989/2014) translated into Arabic and reprinted frequently, highlighting the tenacious but secretive custom of temporary marriage in ethnographic scope to make visible lives of educated and professional Muslim women.  Dr. Haeri’s academic and creative oeuvre include directing a video documentary,",
+                        "(2002, 46 min.) focusing on six women presidential contenders during the Iranian presidential election of 2001."
+                     ],
+                     "strong": "Shahla Haeri",
+                     "em": [
+                        "Law of Desire: Temporary Marriage, Mut’a, in Iran",
+                        "Mrs. President: Women and Political Leadership in Iran"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 19 Dec 2019 11:47:12 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/858/85811/85811-1.jpg",
+               "@length": "47928"
+            }
+         },
+         {
+            "title": "A Century of Ideas: The Crucible of Citizenship",
+            "link": "http://events.stanford.edu/events/860/86038",
+            "guid": "http://events.stanford.edu/events/860/86038",
+            "description": [
+               "Date: Tuesday, January 14, 2020. 4:30 PM.",
+               "Location: Hauck Auditorium, David  Joan Traitel Building, Hoover Institution",
+               [
+                  {
+                     "strong": [
+                        {
+                           "em": "A Century of Ideas for a Free Society"
+                        },
+                        {
+                           "em": []
+                        }
+                     ],
+                     "#text": "will both address a historic perspective and provide a prospective look into important public policies that impact our society."
+                  },
+                  {
+                     "em": {
+                        "strong": "The Crucible of Citizenship"
+                     }
+                  },
+                  {
+                     "strong": {
+                        "#text": [
+                           "Participants:",
+                           ",",
+                           ","
+                        ],
+                        "a": [
+                           {
+                              "@href": "https://www.hoover.org/profiles/james-mattis",
+                              "@target": "_blank",
+                              "@rel": "noopener",
+                              "#text": "Jim Mattis"
+                           },
+                           {
+                              "@href": "https://politicalscience.stanford.edu/people/josiah-ober",
+                              "@target": "_blank",
+                              "@rel": "noopener",
+                              "#text": "Josiah Ober"
+                           },
+                           {
+                              "@href": "https://www.hoover.org/profiles/kiron-k-skinner",
+                              "@target": "_blank",
+                              "@rel": "noopener",
+                              "#text": "Kiron K. Skinner"
+                           }
+                        ]
+                     }
+                  },
+                  {
+                     "strong": {
+                        "#text": "Moderator:",
+                        "a": {
+                           "@href": "https://www.hoover.org/profiles/michael-mcconnell",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Michael McConnell"
+                        }
+                     }
+                  },
+                  "America was a multiracial, multilanguage, multireligion mixing bowl even before it was the United States. Debates over immigration and citizenship have been part of the American landscape from the start. Citizenship and its most important component— voting rights—have been the most frequent topic of constitutional amendments over the years. Panelists will discuss what it means to be a citizen and what it means to be an American.",
+                  [
+                     "Light refreshment reception to follow",
+                     []
+                  ],
+                  {
+                     "#text": "For a full description of the lecture series click",
+                     "a": {
+                        "@href": "https://www.hoover.org/research/century-ideas-free-society-centennial-speaker-series",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "here"
+                     }
+                  },
+                  {
+                     "strong": []
+                  },
+                  {
+                     "strong": "Admission Info"
+                  },
+                  {
+                     "#text": [
+                        "Please click",
+                        "to RSVP."
+                     ],
+                     "a": {
+                        "@href": "https://www.eventbrite.com/e/a-century-of-ideas-for-a-free-society-the-centennial-speaker-series-tickets-82896061351",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "here"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 22 Nov 2019 09:03:27 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86038/83697-1.jpg",
+               "@length": "108785"
+            }
+         },
+         {
+            "title": "Active Defense: China's Military Strategy Since 1949",
+            "link": "http://events.stanford.edu/events/864/86477",
+            "guid": "http://events.stanford.edu/events/864/86477",
+            "description": [
+               "Date: Tuesday, January 14, 2020. 4:30 PM.",
+               "Location: Philippines Conference Room, Encina Hall, 3rd Floor, C330",
+               [
+                  "Since 1949, China has adopted nine national military strategies, known as “strategic guidelines.” The strategies adopted in 1956, 1980, and 1993 represent major changes in China's military strategy or efforts by the People's Liberation Army to wage war in a new way. This talk examines why major changes in strategy have been pursued at these periods and not at other times, highlighting the role of shifts in the conduct of warfare in the international system and unity among the top leaders of the Chinese Communist Party.",
+                  {
+                     "strong": "M. Taylor Fravel",
+                     "#text": [
+                        "is the Arthur and Ruth Sloan Professor of Political Science and Director of the Security Studies Program at the Massachusetts Institute of Technology. Taylor studies international relations, with a focus on international security, China, and East Asia. His books include",
+                        "(Princeton University Press, 2008) and",
+                        "(Princeton University Press, 2019). His other publications have appeared in",
+                        "and",
+                        "Taylor is a graduate of Middlebury College and Stanford University, where he received his PhD.  He also has graduate degrees from the London School of Economics and Oxford University, where he was a Rhodes Scholar. In 2016, he was named an Andrew Carnegie Fellow by the Carnegie Corporation. Taylor serves on the board of directors of the National Committee on U.S.-China Relations and as the Principal Investigator for the Maritime Awareness Project."
+                     ],
+                     "em": [
+                        "Strong Borders, Secure Nation: Cooperation and Conflict in China's Territorial Disputes",
+                        "Active Defense: China's Military Strategy Since 1949",
+                        "International Security, Foreign Affairs, Security Studies, International Studies Review, The China Quarterly, The Washington Quarterly, Journal of Strategic Studies, Armed Forces  Society, Current History, Asian Survey, Asian Security, China Leadership Monitor,",
+                        "Contemporary Southeast Asia."
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 13 Jan 2020 09:42:43 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/864/86477/86477-1.jpg",
+               "@length": "162955"
+            }
+         },
+         {
+            "title": "The Human Rights Dimension of Business and Technology",
+            "link": "http://events.stanford.edu/events/863/86345",
+            "guid": "http://events.stanford.edu/events/863/86345",
+            "description": [
+               "Date: Tuesday, January 14, 2020. 6:00 PM.",
+               "Location: 11th Hour Project, 1010 Alma St., Menlo Park, CA",
+               [
+                  {
+                     "#text": [
+                        "Please join Human Rights Watch Silicon Valley for a reception and riveting conversation on",
+                        "with Human Rights Watch’s Deputy Executive Director,",
+                        ", and Director of Business and Human Rights,",
+                        ".",
+                        "Innovative technologies hold transformative potential for Human Rights Watch to tackle the major human rights problems of our time—armed conflict, forced displacement, environmental devastation, poverty, inequality, and discrimination. Using technology to help solve the hardest problems in the world will enable us to leverage our scale and experience to advance the global movement for justice.",
+                        "At the same time, new technologies also threaten fundamental freedoms and economic rights. Artificial intelligence enables mass surveillance. Algorithm-based decisions in police stations, courthouses and workplaces reproduce old forms of discrimination in new ways. Weapons could soon operate without human control. Digitized misinformation spreads from capitols around the world stoking fear and demonizing minorities.",
+                        "Human Right Watch is positioned to make a difference. Globally, HRW is working to ensure technology companies respect human rights and develop accountable and transparent practices through engaging with social media companies, pushing for government regulation of internet and social media platforms, and establishing industry guidelines on free expression and privacy."
+                     ],
+                     "strong": "The Human Rights Dimension of Business and Technology",
+                     "a": [
+                        {
+                           "@href": "https://www.hrw.org/about/people/nic-dawes",
+                           "@target": "_blank",
+                           "@data-auth": "NotApplicable",
+                           "@rel": "noopener",
+                           "#text": "Nic Dawes"
+                        },
+                        {
+                           "@href": "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.hrw.org%2Fabout%2Fpeople%2Farvind-ganesandata=02%7C01%7Cspencee%40hrw.org%7C55a1e0222b564fd971da08d77da044b9%7C2eb79de4d8044273a6e64b3188855f66%7C1%7C0%7C637115999615450798sdata=nPsb0u549pouTdAHcVbWtDpFhCRT6cvVu%2FA4otLIVoY%3Dreserved=0",
+                           "@target": "_blank",
+                           "@data-auth": "NotApplicable",
+                           "@rel": "noopener",
+                           "#text": "Arvind Ganesan"
+                        }
+                     ],
+                     "br": [
+                        [],
+                        [],
+                        [],
+                        [],
+                        []
+                     ]
+                  },
+                  "Remarks will begin promptly at 6:45 pm, followed by a QA after the discussion. On-site parking and heavy hors d’oeuvres will be provided.",
+                  {
+                     "strong": [
+                        "Please",
+                        "for this fascinating and illuminating conversation."
+                     ],
+                     "a": {
+                        "@href": "mailto:svrsvp@hrw.org?subject=RSVP%20for%20the%20Human%20Rights%20Dimension%20of%20Business%20and%20Technology%20(1/14)",
+                        "@target": "_blank",
+                        "@data-auth": "NotApplicable",
+                        "@rel": "noopener",
+                        "strong": "RSVP here"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:35:35 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/863/86345/86345-2.jpg",
+               "@length": "242264"
+            }
+         },
+         {
+            "title": "Trade and Empire: African Art's Golden Age",
+            "link": "http://events.stanford.edu/events/860/86022",
+            "guid": "http://events.stanford.edu/events/860/86022",
+            "description": [
+               "Date: Tuesday, January 14, 2020. 7:00 PM.",
+               "Location: Cantor Arts Center Auditorium",
+               [
+                  {
+                     "strong": "The 2020 Ruth K. Franklin Lecture on the Arts of Africa, Oceania, And the Americas: Gus Casely-Hayford"
+                  },
+                  "The richest of arts do not just symbolize historic moments; these arts are tools that carve out empires. Dr. Augustus (Gus) Casely-Hayford, director of the Smithsonian National Museum of African Art, explains how the challenges posed by the Southern Atlantic Ocean thwarted West African leaders’ attempts to expand over centuries. Notably, in the fourteenth century, the young Emperor of Mali, Mansa Musa, set out across the Sahara, reaching towards Mecca and created a legendary exchange of arts that we continue to value today.",
+                  {
+                     "#text": [
+                        "Dr. Casely-Hayford received his doctorate in African History from the School of Oriental and African Studies at the University of London and has spoken and published extensively on Africa’s arts and cultures. He has presented two series of",
+                        "for the BBC, among other programs."
+                     ],
+                     "em": "Lost Kingdoms of Africa"
+                  },
+                  "We gratefully acknowledge support from the Ruth K. Franklin Lecture and Symposium Fund.",
+                  "Admission is free",
+                  {
+                     "strong": "To RSVP please visit:"
+                  },
+                  {
+                     "a": {
+                        "@href": "https://www.eventbrite.com/e/83098894029",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://www.eventbrite.com/e/83098894029"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 14:30:37 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86022/86022-1.jpg",
+               "@length": "214465"
+            }
+         },
+         {
+            "title": "Conversations in Global Health featuring Muhammad Pate",
+            "link": "http://events.stanford.edu/events/860/86023",
+            "guid": "http://events.stanford.edu/events/860/86023",
+            "description": [
+               "Date: Wednesday, January 15, 2020. 4:00 PM.",
+               "Location: Munzer Auditorium",
+               [
+                  {
+                     "strong": "January 15, 2020 from 4:00-5:00pm in Munzer Auditorium"
+                  },
+                  {
+                     "#text": "Munzer Auditorium is located in the Beckman Center for Molecular and Genetic Medicine, 279 Campus Drive West, Room B060, Ground floor.",
+                     "strong": []
+                  },
+                  [
+                     "Reception to follow (5:00-6:00pm)",
+                     []
+                  ],
+                  {
+                     "strong": "Muhammad Ali Pate",
+                     "#text": "is the Global Director, Health, Nutrition and Population (HNP) Global Practice of the World Bank and the Director of Global Financing Facility for Women, Children and Adolescents (GFF), based in Washington DC. Dr. Pate, a U.S. and Nigerian national, was until recently the Chief Executive Officer of Big Win Philanthropy, based in the UK, and prior to that held several senior positions, including that of Minister of State for Health in the Federal Republic of Nigeria. He was previously in the World Bank Group where he joined as a Young Professional in 2000 and worked on health issues in several regions including Africa and the East Asia and Pacific."
+                  },
+                  {
+                     "#text": [
+                        "Stanford School of Medicine Senior Communications Strategist",
+                        "will interview Dr. Pate about his work. Following the Conversation, please join us for a reception in the Beckman Center patio."
+                     ],
+                     "strong": "Paul Costello"
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 16 Dec 2019 15:27:46 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86023/86023-3.jpg",
+               "@length": "59744"
+            }
+         },
+         {
+            "title": "Native Survivance and the Literature of Engagement",
+            "link": "http://events.stanford.edu/events/860/86040",
+            "guid": "http://events.stanford.edu/events/860/86040",
+            "description": [
+               "Date: Wednesday, January 15, 2020. 4:30 PM.",
+               "Location: Paul Brest Hall",
+               [
+                  {
+                     "strong": "This event is the 2020 Mimi and Peter E. Haas Distinguished Visitor Lecture on Public Service and the University."
+                  },
+                  {
+                     "strong": [
+                        "“Native American survivance is an active sense of historical presence,",
+                        "a renunciation of political dominance, themes of tragedy, and cultural victimry.",
+                        "Native survivance is a literature of engagement.”"
+                     ],
+                     "#text": "– Gerald Vizenor"
+                  },
+                  {
+                     "#text": [
+                        "Gerald Vizenor, professor emeritus of American Studies at the University of California, Berkeley, is the 2020 Mimi and Peter E. Haas Distinguished Visitor. The Distinguished Visitor program of the",
+                        "brings to Stanford prominent individuals whose lives and careers have had significant impact across the nation and globally through distinct public service contributions. Mr. Vizenor is a citizen of the White Earth Nation in Minnesota. He has published more than 30 books, novels, critical theory, cultural studies, and poetry collections.",
+                        ", a collection of essays, and",
+                        "and",
+                        ", two historical novels about Native Americans who served in World War I in France, are his most recent publications. Mr. Vizenor has received many awards, including the American Book Award for",
+                        ", and the Western Literature Association Distinguished Achievement Award."
+                     ],
+                     "a": {
+                        "@href": "https://haas.stanford.edu/",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "Haas Center for Public Service"
+                     },
+                     "em": [
+                        "Native Provenance: The Betrayal of Cultural Creativity",
+                        "Blue Ravens",
+                        "Native Tributes",
+                        "Griever: An American Monkey King in China"
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "This year's Mimi and Peter E. Haas Distinguished Visitor program is cosponsored by the Native American Cultural Center and the Haas Center for Public Service. For more information about Gerald Vizenor's visit, please visit the",
+                        "."
+                     ],
+                     "a": {
+                        "@href": "https://haas.stanford.edu/about/about-our-work/mimi-and-peter-e-haas-distinguished-visitor-program",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "Haas Center website"
+                     }
+                  },
+                  {
+                     "strong": {
+                        "#text": [
+                           "Join us for a reception with Mr. Vizenor at 4:30pm, followed by the lecture from 5:00-6:00pm.",
+                           "."
+                        ],
+                        "a": {
+                           "@href": "https://commitment.stanford.edu/register/?id=99442d3c-a8da-4f5e-96b8-ba2f146443ea",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Please let us know you will be attending"
+                        }
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Wed, 11 Dec 2019 17:08:59 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86040/86040-1.jpg",
+               "@length": "164057"
+            }
+         },
+         {
+            "title": "Human Biology Spotlight Film Viewing and Discussion",
+            "link": "http://events.stanford.edu/events/860/86025",
+            "guid": "http://events.stanford.edu/events/860/86025",
+            "description": [
+               "Date: Wednesday, January 15, 2020. 6:30 PM.",
+               "Location: Building 160, Room 124",
+               [
+                  "Cancer:  The Emperor Of All Maladies with faculty host Paul Fisher",
+                  "THE STORY OF CANCER: The Emperor of All Maladies examines cancer with a cellular biologist’s precision, a historian’s perspective and a biographer’s passion. The series artfully weaves three different films in one: a riveting historical documentary; an engrossing and intimate vérité film; and a scientific and investigative report.",
+                  "Although this event is free we ask that you please RSVP",
+                  {
+                     "a": {
+                        "@href": "https://forms.gle/fvdowD7y2yLHcp7DA",
+                        "@target": "_blank",
+                        "@data-auth": "NotApplicable",
+                        "@rel": "noopener",
+                        "#text": "https://forms.gle/fvdowD7y2yLHcp7DA"
+                     }
+                  },
+                  "For questions please contact Courtney Gao, cgao20@stanford.edu"
+               ]
+            ],
+            "pubDate": "Wed, 11 Dec 2019 14:14:36 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86025/86025-1.jpg",
+               "@length": "41845"
+            }
+         },
+         {
+            "title": "Human Rights in the Northern Triangle of Central America",
+            "link": "http://events.stanford.edu/events/860/86088",
+            "guid": "http://events.stanford.edu/events/860/86088",
+            "description": [
+               "Date: Thursday, January 16, 2020. 12:00 PM.",
+               "Location: Encina Commons, room 123",
+               [
+                  "Global trends such as the rise in authoritarianism and weakening of democratic institutions have especially severe impacts in transitional democracies like the countries of Central America’s Northern Triangle, putting human rights at ever greater risk. Noah Bullock will give an overview of the state of human rights in the Northern Triangle countries of El Salvador, Guatemala, and Honduras through the lens of the politics of each country and of the United States. Despite great challenges and backward-trending developments such as the dismissal of the International Commission Against Impunity in Guatemala (CICIG) in Guatemala and the Trump Administration’s Northern Triangle policy aimed at burnishing its anti-immigration bona fides for a domestic audience, there is an undying flame of hope in all three Northern Triangle countries and promising signs for a more peaceful future.",
+                  "In this talk, Noah Bullock will draw on examples from Cristosal’s own work, including its 2018 Salvadoran Supreme Court victory on behalf of victims of internal displacement and its ongoing prosecution of the 1981 El Mozote massacre, to discuss potential paths forward. Says Bullock, “Human rights were taught to me as a historical process, and every generation has to be able to understand human rights and violations in their own time. Our moment has changed significantly from when these frameworks were established, so we are challenged now to find ways to apply these same principles in programming to address our moment’s greatest challenges of displacement by violence, poverty, and inequality.”",
+                  {
+                     "#text": [
+                        "Noah Bullock is Executive Director of Cristosal. He first came to El Salvador in 2005 as a human rights intern for Cristosal after graduating from the University of Montana with a bachelor’s degree in Peace and Conflict Studies. Noah studied at the International Conflict Research Institute (INCORE), a joint project of the University of Ulster in Northern Ireland and the United Nations University, and in 2009 earned a postgraduate certificate in Local Development",
+                        "at the University of Central America, José Simeón Cañas. From 2006 to 2009, Noah worked as the director of Cristosal’s Community Development program. At the end of 2009, he started a documentary film project about internal displacement called \"For a More Humane World,\" in which he worked as an executive producer until the film’s release in April 2010. During that period, he also assumed his current role as Executive Director. In 2016, Noah presented a report on forced displacement in Central America at the High-Level Leaders’ Round Table on Forced Displacement at the World Humanitarian Summit, where he also participated in the consultative process for the global pact for refugees. Noah is a member and co-founder of the Legal Support Network for Refugees in the Americas (RARLA)."
+                     ],
+                     "em": "cum laude"
+                  },
+                  {
+                     "a": {
+                        "@href": "https://www.cristosal.org/",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "Cristosal"
+                     },
+                     "#text": "is a human rights NGO based in El Salvador, with operations in Guatemala and Honduras. Cristosal advances human rights in the Northern Triangle via five integrated programs: Victim Accompaniment and Protection, Strategic Litigation, Community Development, Strategic Communication, and Learning and Research. Current foci of Cristosal’s work include internal displacement due to violence, the rise in anti-LGBTQI violence throughout the region, the militarization of security, and the prosecution of historic crimes in El Salvador like the El Mozote massacre."
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 16 Dec 2019 14:54:01 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86088/86088-1.jpg",
+               "@length": "210273"
+            }
+         },
+         {
+            "title": "Nicole Fleetwood on Marking Time: Art in the Age of Mass Incarceration",
+            "link": "http://events.stanford.edu/events/846/84697",
+            "guid": "http://events.stanford.edu/events/846/84697",
+            "description": [
+               "Date: Thursday, January 16, 2020. 5:30 PM.",
+               "Location: Oshman Hall, McMurtry Building",
+               [
+                  "The Department of Art  Art History presents the new speaker series, Living Art History: Race, Methodology  Praxis, featuring Nicole Fleetwood, professor of American studies and art history at Rutgers University.",
+                  {
+                     "#text": [
+                        "Professor Fleetwood will discuss her forthcoming book,",
+                        ", which examines the impact of mass incarceration on contemporary art and culture. Focusing on art made in US prisons and in collaboration with artists and activists across the nation, she explores various aesthetic practices of incarcerated artists who use carceral space, penal matter, and juridical papers to produce art about carcerality. Her presentation considers how furtive planning and strategies of appropriating items of the state are employed to make prison art. She calls these numerous and overlapping aesthetic and political practices “carceral aesthetics.”"
+                     ],
+                     "a": {
+                        "@href": "https://www.hup.harvard.edu/catalog.php?isbn=9780674919228",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "em": "Marking Time: Art in the Age of Mass Incarceration"
+                     }
+                  },
+                  {
+                     "strong": "Nicole Fleetwood",
+                     "#text": [
+                        "is a writer, curator, and professor of American studies and art history at Rutgers University, New Brunswick. Her books are",
+                        "(Harvard University Press, 2020),",
+                        "(Rutgers University Press, 2015), and",
+                        "(University of Chicago Press, 2011)",
+                        "She is co-editor of",
+                        "magazine’s “Prison Nation,” a special issue focusing on photography’s role in documenting mass incarceration. Fleetwood has curated exhibitions and events on art and mass incarceration at the Andrew Freedman Home, Aperture, Cleveland Public Library, Zimmerli Art Museum, Mural Arts Philadelphia, Eastern State Penitentiary Historic Site, and the Urban Justice Center. Her work has been supported by grants and fellowships from the NYPL’s Cullman Center for Scholars and Writers, ACLS, the Whiting Foundation, the Rockefeller Foundation’s Bellagio Center, Schomburg Center for Scholars-in-Residence, Andrew W. Mellon Foundation, Ford Foundation, NJ Council for the Humanities, and the NEH."
+                     ],
+                     "em": [
+                        "Marking Time: Art in the Age of Mass Incarceration",
+                        "On Racial Icons: Blackness and the Public Imagination",
+                        "Troubling Vision: Performance, Visuality, and Blackness",
+                        ".",
+                        "Aperture"
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "Image: Russell Craig,",
+                        ", 2016."
+                     ],
+                     "em": "Self Portrait"
+                  },
+                  {
+                     "#text": [
+                        "VISITOR INFORMATION: Oshman Hall is located in the McMurtry Building on the Stanford campus at 355 Roth Way.",
+                        "is free after 4 pm on weekdays, except by the Oval. Alternatively, take the Caltrain to Palo Alto Transit Center and ride the free",
+                        "."
+                     ],
+                     "a": [
+                        {
+                           "@href": "https://transportation.stanford.edu/parking/purchase-a-parking-permit/visitors",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Visitor parking"
+                        },
+                        {
+                           "@href": "https://transportation.stanford.edu/marguerite",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Stanford Marguerite Shuttle"
+                        }
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "Connect with the Department of Art  Art History! Subscribe to our",
+                        "and follow us on",
+                        "and",
+                        "."
+                     ],
+                     "a": [
+                        {
+                           "@href": "https://art.stanford.edu/news/subscribe",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "mailing list"
+                        },
+                        {
+                           "@href": "https://www.facebook.com/stanfordaah",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Facebook"
+                        },
+                        {
+                           "@href": "https://www.instagram.com/stanfordaah/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Instagram"
+                        }
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 16 Dec 2019 15:57:52 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/846/84697/84697-1.jpg",
+               "@length": "342021"
+            }
+         },
+         {
+            "title": "James Gentry: \"Simplicity and Elaboration in Buddhist Theory and Practice: ...\"",
+            "link": "http://events.stanford.edu/events/857/85772",
+            "guid": "http://events.stanford.edu/events/857/85772",
+            "description": [
+               "Date: Thursday, January 16, 2020. 5:30 PM.",
+               "Location: Hartley Conference Center",
+               [
+                  {
+                     "em": {
+                        "strong": "\"Simplicity and Elaboration in Buddhist Theory and Practice: Points of Friction in the Tantric Profile of the Great Perfection\""
+                     }
+                  },
+                  {
+                     "strong": "Abstract:"
+                  },
+                  {
+                     "#text": [
+                        "From the vantage point of many contemporary Tibetan Buddhist traditions, the non-dual nature of intrinsic awakened cognition—or buddhanature—serves as the pristine ground and culminating realization of the elaborate mainstream tantric visualizations, baroque ceremonials, and demanding physical postures connected with deity-yoga and subtle-body practices. Yet the presumed symbiosis between the simplicity of just letting go into intrinsic awakened cognition and the elaboration of standard tantric practices stands at the end of historical processes which have often given voice to tensions between these two currents of Buddhist thought and practice. This presentation will explore these points of friction through analysis of a revelatory cycle rediscovered by the famous Treasure revealer Sangyé Lingpa (1340–1396) called",
+                        "(",
+                        "). This cycle brings together the Great Perfection contemplative practices of recognizing intrinsic non-dual awareness and enabling spontaneous visionary experiences, with the standard tantric practices of detailed visualization, ritual practice, and material religion, prescribing the manufacture of the cycle’s basic text into circular diagrams and their distribution as amulets. This combination of features—at once discursive and material, contemplative and ritual—can, it will be argued, throw into particularly sharp relief the deeper tensions—both problematic and productive—between the opposing tendencies toward simplicity or elaboration in Buddhist traditions as a whole."
+                     ],
+                     "em": [
+                        "The",
+                        "Buddha’s Only Child",
+                        "Sangs rgyas sras gcig"
+                     ]
+                  },
+                  {
+                     "strong": "Bio:"
+                  },
+                  {
+                     "strong": [
+                        {
+                           "em": "James Gentry"
+                        },
+                        "Stanford University"
+                     ],
+                     "#text": [
+                        "is Assistant Professor of Religious Studies at",
+                        ". He specializes in Tibetan Buddhism, with particular focus on the literature and history of its Tantric traditions. He is the author of",
+                        ", which examines the roles of Tantric material and sensory objects in the lives and institutions of Tibetan and Himalayan Buddhists. His current projects include a study of the reception in Tibet from the 9th century to the present of the “Five Protectors” (",
+                        ")—a set of five Indian Tantric Buddhist texts that have been among the most popular scriptures used for pragmatic purposes throughout the Buddhist world."
+                     ],
+                     "em": [
+                        "Power Objects in Tibetan Buddhism: The Life, Writings, and Legacy of Sokdokpa Lodrö Gyeltsen",
+                        "Pañcarakṣā"
+                     ]
+                  },
+                  "Co-sponsor: Tibetan Studies Initiative"
+               ]
+            ],
+            "pubDate": "Wed, 04 Dec 2019 15:45:28 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/857/85772/85772-2.jpg",
+               "@length": "224715"
+            }
+         },
+         {
+            "title": "A Time to Break Silence: Rediscovering King's Anti-war Speech",
+            "link": "http://events.stanford.edu/events/862/86260",
+            "guid": "http://events.stanford.edu/events/862/86260",
+            "description": [
+               "Date: Thursday, January 16, 2020. 7:30 PM.",
+               "Location: Stanford Memorial Church",
+               [
+                  {
+                     "#text": [
+                        "On",
+                        ", we invite you to a special program featuring the premiere of the newly discovered and remarkably clear Riverside Church recording of King's historic speech against the Vietnam War,",
+                        "Join us at the Stanford Memorial Church as we recreate the incomparable presence of King as an orator offering a voice of moral clarity to our own present moment."
+                     ],
+                     "strong": "Thursday, January 16, 2020, from 7:30 - 9:00 p.m.",
+                     "a": {
+                        "@href": "https://kinginstitute.stanford.edu/king-papers/documents/beyond-vietnam",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "\"Beyond Vietnam.\""
+                     }
+                  },
+                  "Dr. Clarence B. Jones, former counsel and speechwriter for Dr. King, will also speak about his experiences with Dr. King during this crucial period and the speech’s enduring relevance.",
+                  {
+                     "strong": "RSVP",
+                     "#text": "at",
+                     "a": {
+                        "@href": "https://bit.ly/2QvDAIo",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "bit.ly/2QvDAIo"
+                     }
+                  },
+                  "This event is free and open to the public. RSVP requested but not required.",
+                  "In partnership with the Riverside Church and the Stanford Office for Religious Life."
+               ]
+            ],
+            "pubDate": "Fri, 10 Jan 2020 11:21:36 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86260/86260-1.jpg",
+               "@length": "225968"
+            }
+         },
+         {
+            "title": "2020 King Institute Open House",
+            "link": "http://events.stanford.edu/events/862/86278",
+            "guid": "http://events.stanford.edu/events/862/86278",
+            "description": [
+               "Date: Friday, January 17, 2020. 2:00 PM.",
+               "Location: 466 Via Ortega, Cypress Hall D, Stanford, CA 94305",
+               [
+                  "Join us at the Martin Luther King, Jr., Research and Education Institute as we celebrate the Martin Luther King, Jr., Holiday. All are welcome. Visit our staff and view our exhibit of King-related photos and documents. Refreshments will be served.",
+                  "Please note: Via Ortega is closed to through traffic from Campus Drive Loop. Please use Panama Street to access parking and Via Ortega. Visitor parking available in parking structure 2 at Panama Street/Via Ortega, or nearby surface lots. Parking is free after 4:00 p.m."
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:21:06 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86278/86278-1.jpg",
+               "@length": "29038"
+            }
+         },
+         {
+            "title": "Sustainable Urban Development Forum",
+            "link": "http://events.stanford.edu/events/864/86417",
+            "guid": "http://events.stanford.edu/events/864/86417",
+            "description": [
+               "Date: Saturday, January 18, 2020. 08:30 AM.",
+               "Location: Mackenzie Room, The Jen-Hsun Huang Engineering Center, 475 Via Ortega, Stanford, CA",
+               {
+                  "p": [
+                     "Stanford Center for Sustainable Development  Global Competitiveness, in collaboration with International Towns Federation, cordially invite you to join the Sustainable Urban Development Forum at Stanford University on Jan 18, 2020.",
+                     {
+                        "strong": {
+                           "em": "This event is Free. Registration is required."
+                        }
+                     },
+                     {
+                        "strong": {
+                           "em": "Featured Keynote Speakers Include:"
+                        }
+                     }
+                  ],
+                  "ul": [
+                     {
+                        "strong": "Kevin Rudd",
+                        "#text": "- 26th Australian Prime Minister, Chair of International Towns Federation"
+                     },
+                     {
+                        "strong": "George Papandreou",
+                        "#text": "– 182nd Prime Minister of Greece"
+                     },
+                     {
+                        "strong": "Thomas Ridge",
+                        "#text": "- First U.S. Secretary of Homeland Security, 43rd Governor of Pennsylvania"
+                     },
+                     {
+                        "strong": "Xinli Zheng",
+                        "#text": "- Vice Chairman, China Center for International Economic Exchange"
+                     },
+                     {
+                        "strong": "Steven Chu",
+                        "#text": "- Professor of Physics, Stanford, Co-recipient of the 1997 Nobel Prize for Physics"
+                     }
+                  ]
+               }
+            ],
+            "pubDate": "Wed, 08 Jan 2020 12:05:56 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/864/86417/86417-2.jpg",
+               "@length": "258100"
+            }
+         },
+         {
+            "title": "Mozart Birthday Celebration with the San Francisco Chamber Orchestra All-Stars",
+            "link": "http://events.stanford.edu/events/861/86127",
+            "guid": "http://events.stanford.edu/events/861/86127",
+            "description": [
+               "Date: Saturday, January 18, 2020. 7:30 PM.",
+               "Location: Cubberley Auditorium, School of Education",
+               [
+                  {
+                     "#text": "In celebration of Wolfgang Amadeus Mozart’s 264th birthday, the San Francisco Chamber Orchestra All-Stars present a program of chamber music masterpieces by the “Salzburg Scribbler” himself. This event features two quintets, String Quintet No. 5 in D Major, K. 593 and Horn Quintet in E-flat Major, K. 407, the latter being Mozart’s only work for horn and strings. Joining SFCO principal horn player Kate Dennis are Antoine van Dongen (violin); Liana Bérubé (violin); Alexandra Leem (viola); Ben Simon (viola); and Samsun van Loon (cello). Classical music fans will not want to miss the “Ask Wolfie” segment or the chance to win a prize from the Mozart Trivia Challenge.",
+                     "br": [
+                        []
+                     ],
+                     "strong": "Ben Simon, Violist; Music Director, San Francisco Chamber Orchestra (SFCO)"
+                  },
+                  {
+                     "#text": "Ben Simon is in his 18th season as music director of the SFCO. Simon, a violist, puts down his baton to join his fellow SFCO All-Stars for select performances. He is also the music director of the award-winning youth ensemble Palo Alto Chamber Orchestra. Simon has been teaching Continuing Studies courses since 1996, and has organized popular events featuring the music of Beethoven, Bernstein, Mendelssohn, Tchaikovsky, and—of course—Mozart.",
+                     "br": [
+                        []
+                     ],
+                     "strong": "San Francisco Chamber Orchestra (SFCO)"
+                  },
+                  "The San Francisco Chamber Orchestra brings its professional, admission-free classical music concerts to the Peninsula many times per year through its MainStage concerts in Palo Alto, the Family Concert series at the College of San Mateo Theater, and the Very First Concerts at the San Mateo Public Library main branch."
+               ]
+            ],
+            "pubDate": "Mon, 09 Dec 2019 12:48:58 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/861/86127/86127-1.jpg",
+               "@length": "136796"
+            }
+         },
+         {
+            "title": "Mindful Yoga",
+            "link": "http://events.stanford.edu/events/860/86060",
+            "guid": "http://events.stanford.edu/events/860/86060",
+            "description": [
+               "Date: Ongoing from January 21, 2020 through June 2, 2020. See details for exact dates and times.",
+               "Location: Windhover",
+               [
+                  "Enjoy yoga stretches in dappled morning light. Within a flowing sequence of postures, this class provides instruction for a balanced yoga practice grounded in alignment, breath, and peace of mind. Union is the literal meaning of the Sanskrit word yoga. Refresh and renew your resilience by giving yourself the gift of movement that fosters union and dynamic balance in mind-body-spirit. While this class focuses on fundamentals for beginners, experienced practitioners are welcome. Instructor: Tia Rich, PhD, HIP Senior Health Promotion Specialist, and Contemplation by Design, Director.",
+                  {
+                     "strong": {
+                        "em": "Please bring your yoga mat."
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 09 Dec 2019 12:49:12 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86060/86060-1.jpg",
+               "@length": "105067"
+            }
+         },
+         {
+            "title": "Crossing the Caspian: Persia and Europe, 1500-1700",
+            "link": "http://events.stanford.edu/events/857/85749",
+            "guid": "http://events.stanford.edu/events/857/85749",
+            "description": [
+               "Date: Ongoing Wed - Mon. Thurs until 8 pm. Closed Tues. from January 22, 2020 through April 26, 2020. 11:00 AM.",
+               "Location: Cantor Arts Center",
+               [
+                  {
+                     "em": [
+                        "Crossing the Caspian",
+                        "We gratefully acknowledge support from The Andrew W. Mellon Foundation."
+                     ],
+                     "#text": "explores the golden age of artistic exchange between the Safavid Empire of Persia and Europe. Featuring prints, drawings, miniature paintings, rare books and maps, as well as objects of porcelain and silk, this exhibition examines the opening of new geographic, diplomatic, and mercantile routes between Persia and Europe in the seventeenth century. The pieces assembled here include works by artists from Antwerp, Amsterdam, Paris, Hollstein, Qazvin, Isfahan, and Shiraz. Together, the works represent the process of coming to know a foreign culture through the medium of visual art.",
+                     "br": []
+                  },
+                  {
+                     "#text": [
+                        "IMAGE: Artist unknown (Persian, Iran),",
+                        ", c. 1588. Gouache and gold leaf on paper. Committee for Art Acquisitions Fund, 1985.137"
+                     ],
+                     "em": "Scene from the Shahnameh: Rustam Battling with the White Demon"
+                  },
+                  {
+                     "strong": "Admission Info"
+                  },
+                  "Cantor Arts Center: Open Wed-Mon, 11am - 5pm, Thurs until 8pm. CLOSED TUES"
+               ]
+            ],
+            "pubDate": "Fri, 22 Nov 2019 21:16:14 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/857/85749/85749-1.jpg",
+               "@length": "124924"
+            }
+         },
+         {
+            "title": "What Matters to Me and Why- Matthew Tiews",
+            "link": "http://events.stanford.edu/events/859/85963",
+            "guid": "http://events.stanford.edu/events/859/85963",
+            "description": [
+               "Date: Wednesday, January 22, 2020. 12:00 PM.",
+               "Location: CIRCLE Common Room (Old Union 3rd Floor)",
+               [
+                  {
+                     "#text": [
+                        "The",
+                        "series encourages reflection within the Stanford community on matters of personal values, beliefs, and motivations in order to better understand the lives and inspirations of those who shape the University."
+                     ],
+                     "em": "What Matters to Me and Why"
+                  },
+                  "All are welcome. Feel free to bring your lunch.",
+                  {
+                     "strong": "Matthew Tiews is Associate Vice President for Campus Engagement at Stanford University."
+                  },
+                  "In this newly created position, Matthew is responsible for activating the campus community as a vital part of the vision and mission of the university. As a first priority, he is leading the process of developing a vision for the White Plaza area as a new Town Center for Stanford.",
+                  "Matthew previously worked to implement Stanford’s university-wide Arts Initiative from 2010 to 2018, first as executive director of arts programs, then as associate dean for the advancement of the arts and finally as associate vice president for the arts. As part of the Initiative, he was responsible for bringing online the new facilities in Stanford’s Arts District, particularly Bing Concert Hall and the Anderson Collection at Stanford University, and he developed Roble Arts Gym and other student-facing facilities across campus. He created numerous interdisciplinary programs drawing on Stanford’s research strengths, and he led a strategic capacity effort deliver a new curricular requirement in Creative Expression."
+               ]
+            ],
+            "pubDate": "Fri, 22 Nov 2019 15:09:12 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/859/85963/85963-1.jpg",
+               "@length": "63167"
+            }
+         },
+         {
+            "title": "Keeping Harlem Black",
+            "link": "http://events.stanford.edu/events/860/86031",
+            "guid": "http://events.stanford.edu/events/860/86031",
+            "description": [
+               "Date: Wednesday, January 22, 2020. 4:30 PM.",
+               "Location: Cantor Arts Center",
+               [
+                  {
+                     "strong": "Harlem historian and activist shares insights"
+                  },
+                  "Michael Henry Adams, a Harlem-based architectural and cultural historian, an activist for historic preservation, and tour guide takes us into the Harlem depicted in Jordan Casteel’s paintings. Following a tour of black Harlem inspired by the paintings, Adams describes the threat gentrification poses to black culture and agency by uprooting and displacing people of color from places like Harlem and Oakland.",
+                  {
+                     "#text": [
+                        "IMAGE: Jordan Casteel (U.S.A., b. 1989),",
+                        ", 2017. Oil on canvas, 90 x 78 in. Collection of Lonti Ebers. © Jordan Casteel. Image courtesy of the artist and Casey Kaplan, New York"
+                     ],
+                     "em": "Joe and Mozel (Pompette Wines)"
+                  },
+                  "Admission is free",
+                  "To RSVP please visit:",
+                  {
+                     "a": {
+                        "@href": "https://www.eventbrite.com/e/83224204837",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://www.eventbrite.com/e/83224204837"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Tue, 10 Dec 2019 14:16:13 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86031/86031-1.jpg",
+               "@length": "109875"
+            }
+         },
+         {
+            "title": "Stegner Fellow Reading with Lydia Conklin and Safia Elhillo",
+            "link": "http://events.stanford.edu/events/851/85191",
+            "guid": "http://events.stanford.edu/events/851/85191",
+            "description": [
+               "Date: Wednesday, January 22, 2020. 6:30 PM.",
+               "Location: Levinthal Hall, Stanford Humanities Center",
+               [
+                  "Lydia Conklin",
+                  "Safia Elhillo",
+                  "Free and open to the public.",
+                  "Reading with first year Stegner Fellows in Fiction and Poetry, Lydia Conklin and Safia Elhillo.",
+                  {
+                     "strong": "Lydia Conklin",
+                     "#text": "has received a Creative Writing Fulbright Scholarship to Poland, a Rona Jaffe Foundation Writers' Award,a grant from the Elizabeth George Foundation, two Pushcart Prizes, a Creative Writing Fellowship from Emory University, work-study andtuition scholarships from Bread Loaf, and fellowships from MacDowell, Yaddo, Hedgebrook, Djerassi, the James Merrill House, Lighthouse Works, and others. Her fiction has appeared inTin House, The Southern Review, The Gettysburg Review,and elsewhere. Shehas drawn graphic fiction forThe Believer, Lenny Letter, Popula Magazine,and the Steppenwolf Theater in Chicago."
+                  },
+                  {
+                     "strong": "Safia Elhillo",
+                     "#text": "is the author ofThe January Children(University of Nebraska Press, 2017), recipient of the 2016 SillermanFirst Book Prize for African Poets and a 2018 Arab American Book Award. She is a 2018 Ruth Lilly and Dorothy Sargent Rosenberg Fellow and holds an MFA from The New School."
+                  }
+               ]
+            ],
+            "pubDate": "Tue, 12 Nov 2019 13:34:16 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/851/85191/85191-1.jpg",
+               "@length": "46710"
+            }
+         },
+         {
+            "title": "Community Leaders Speaker Series: Understanding Homelessness",
+            "link": "http://events.stanford.edu/events/864/86465",
+            "guid": "http://events.stanford.edu/events/864/86465",
+            "description": [
+               "Date: Thursday, January 23, 2020. 4:00 PM.",
+               "Location: Studio 40, McClatchy Hall, Stanford, CA",
+               [
+                  {
+                     "#text": [
+                        "The Community Leaders Speaker Series is bringing to campus local experts and organizations who have been working---through research, policy reform, and direct service---to address major systemic injustices. The aim of this speaker series is to center the voices of system-involved individuals: experts who have had first-hand experience with the foster care system, the criminal justice system, and housing instability.",
+                        "Partnering with the Law School, the School of Engineering, and the School of Journalism, we hope these events will encourage interdisciplinary research, interventions, and support that align with avenues for change voiced by affected communities and community leaders."
+                     ],
+                     "br": [
+                        []
+                     ]
+                  },
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "https://www.youngwomenfree.org/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Young Women’s Freedom Center"
+                        }
+                     },
+                     "#text": "works to transform the systems that keep us stuck in cycles of poverty, violence, and incarceration. For 25 years, they have been leaders in lifting up young women, girls, transgender and gender non-conforming (TGNC) youth, providing direct services and leadership programs, changing policy and legislation, advocating for the rights of young people, and doing research to examine intersectional issues that system-involved youth face. Most of the YWFC’s staff were once themselves incarcerated in San Francisco’s youth jail and know firsthand how this system is failing our young people."
+                  },
+                  {
+                     "#text": [
+                        "Join us in welcoming Executive Director",
+                        "and Research Director",
+                        ", who will share with us the work YWFC does, the policies their organization has pushed through, and the pressing issues they’re currently working to change."
+                     ],
+                     "strong": [
+                        "Jessica Nowlan",
+                        "Alezandra Melendrez"
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "In YWFC’s",
+                        "they state, “We have the right to be consulted when institutions want to create, revise, and eliminate policies, legislation, rules, or laws that will impact the way we experience systems.” We look forward to this speaker series as a first step in that process, in consulting young women and TGNC youth on potential policies surrounding housing, homelessness, and the criminal justice system."
+                     ],
+                     "a": {
+                        "@href": "https://www.youngwomenfree.org/who-we-are/bill-of-rights",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "Bill of Rights"
+                     }
+                  },
+                  "Snacks will be provided."
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 08:40:28 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/864/86465/86465-3.jpg",
+               "@length": "289522"
+            }
+         },
+         {
+            "title": "Artist Talk with ALOK",
+            "link": "http://events.stanford.edu/events/860/86055",
+            "guid": "http://events.stanford.edu/events/860/86055",
+            "description": [
+               "Date: Thursday, January 23, 2020. 4:30 PM.",
+               "Location: Cantor Arts Center",
+               {
+                  "p": "Performance artist and writer ALOK, whose eclectic style offers a poetic challenge to the conventional gender binary, discusses performance, body images, and self-fashioning."
+               }
+            ],
+            "pubDate": "Tue, 10 Dec 2019 15:29:40 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86055/86055-1.jpg",
+               "@length": "248825"
+            }
+         },
+         {
+            "title": "Large N expansion for wide neural networks",
+            "link": "http://events.stanford.edu/events/854/85488",
+            "guid": "http://events.stanford.edu/events/854/85488",
+            "description": [
+               "Date: Monday, January 27, 2020. 2:00 PM.",
+               "Location: Varian Physics - Room 355",
+               [
+                  {
+                     "#text": [
+                        "Google Research Scientist",
+                        "will give the",
+                        "(SITP) Monday Colloquium."
+                     ],
+                     "a": [
+                        {
+                           "@href": "https://scholar.google.com/citations?user=mx8P4QUAAAAJhl=enoi=ao",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Guy Gur-Ari"
+                        },
+                        {
+                           "@href": "/eventadmin/sitp.stanford.edu",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Stanford Institute for Theoretical Physics"
+                        }
+                     ]
+                  },
+                  {
+                     "strong": {
+                        "#text": "Abstract",
+                        "br": []
+                     },
+                     "#text": [
+                        "Understanding the asymptotic behavior of wide neural networks is of considerable interest in machine learning. In the large width limit, we keep the number of layers of a network fixed and send the number of neurons in a layer to infinity. We present a general method for deriving scaling laws of correlators in this limit. The method is an adaptation of 't Hooft's large N expansion, where the number of neurons plays the role of N. We apply our method to study training dynamics during gradient descent. We improve on existing results in the strict large width limit, and compute the 1/N correction to network evolution. The talk is based on",
+                        "."
+                     ],
+                     "a": {
+                        "@href": "https://arxiv.org/abs/1909.11304",
+                        "@target": "_blank",
+                        "@data-saferedirecturl": "https://www.google.com/url?q=https://arxiv.org/abs/1909.11304source=gmailust=1570732741938000usg=AFQjCNFYjxPCop9UWuIPRjHySkpzuGWZGQ",
+                        "@rel": "noopener",
+                        "#text": "https://arxiv.org/abs/1909.11304"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Tue, 10 Dec 2019 15:45:14 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/854/85488/85488-1.jpg",
+               "@length": "53126"
+            }
+         },
+         {
+            "title": "AI for Good Seminar Series - AI for Earth and the Environment",
+            "link": "http://events.stanford.edu/events/862/86289",
+            "guid": "http://events.stanford.edu/events/862/86289",
+            "description": [
+               "Date: Monday, January 27, 2020. 4:30 PM.",
+               "Location: William R. Hewlett Teaching Center (Room 200) - 370 Serra Mall, Stanford, CA 94305",
+               [
+                  {
+                     "strong": "AI for Earth and the Environment"
+                  },
+                  "How can AI and machine learning be leveraged to mitigate the impact of human activities on earth’s natural systems?  Learn about data science tools and strategies being used to safeguard our water supply, feed the worldwide human population, and promote greater biodiversity and global sustainability.",
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "https://www.microsoft.com/en-us/research/people/lujoppa/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Lucas Joppa"
+                        },
+                        "#text": ", Chief Environmental Officer, Microsoft"
+                     }
+                  },
+                  "As Microsoft’s first Chief Environmental Officer, Dr. Lucas Joppa works to advance the company’s core commitment to sustainability through technology innovation, program development, policy advancement, and global operational excellence. With a background in both environmental science and data science, Lucas is committed to using the power of advanced technology to help transform how society monitors, models, and ultimately manages Earth’s natural resources. Dr. Joppa founded Microsoft’s AI for Earth program in 2017—a five-year, $50 million cross-company effort dedicated to delivering technology-enabled solutions to global environmental challenges.",
+                  "Previously, Lucas was Microsoft’s Chief Environmental Scientist and led research programs in Microsoft Research. He remains an active scientist and one of Microsoft’s foremost AI thought leaders, speaking frequently on issues related to Artificial Intelligence, environmental science, and sustainability. With extensive publication in leading academic journals, such as Science and Nature, Dr. Joppa is a uniquely accredited voice for sustainability in the tech industry.",
+                  "He holds a PhD in Ecology from Duke University , a BS in Wildlife Ecology from the University of Wisconsin, and is a former Peace Corps volunteer to Malawi.",
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "https://cs.stanford.edu/~ermon/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Stefano Ermon"
+                        },
+                        "#text": ", Assistant Professor of Computer Science, Stanford University"
+                     }
+                  },
+                  "Dr. Ermon is an Assistant Professor in the Department of Computer Science at Stanford University, where he is affiliated with the Artificial Intelligence Laboratory and is a fellow of the Woods Institute for the Environment. His research is centered on techniques for scalable and accurate inference in graphical models, statistical modeling of data, large-scale combinatorial optimization, and robust decision making under uncertainty, and is motivated by a range of applications, in particular ones in the emerging field of computational sustainability. Dr. Ermon received his PhD from Cornell University.",
+                  {
+                     "#text": "Livestream this event here:",
+                     "a": {
+                        "@href": "https://livestream.com/accounts/1973198/AI-For-Good",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://livestream.com/accounts/1973198/AI-For-Good"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 10:21:50 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86289/86289-1.jpg",
+               "@length": "66182"
+            }
+         },
+         {
+            "title": "SLAC on Tap- A battery walks into a bar...",
+            "link": "http://events.stanford.edu/events/865/86511",
+            "guid": "http://events.stanford.edu/events/865/86511",
+            "description": [
+               "Date: Monday, January 27, 2020. 6:00 PM.",
+               "Location: The Old Pro, Palo Alto",
+               [
+                  {
+                     "#text": [
+                        "X-ray vision might sound like the stuff of superheroes and science fiction, but at SLAC’s Stanford Synchrotron Radiation Lightsource (SSRL) it’s what allows scientists to peer inside batteries and see what makes them tick. Join us for SLAC on Tap at the Old Pro in Palo Alto where PBR (Pushing the Battery Revolution) expert Johanna Nelson Weker will share how she and other researchers use X-ray microscopy to reveal the inner workings of lithium ion batteries and find out how changes to their structure and chemistry ultimately lead to their failure. Have a drink, learn about battery research, and stick around after the talk for some trivia, giveaways and the chance to build a battery with beer.",
+                        "Johanna is a staff scientist working on X-ray characterization of energy materials at SSRL. Whether at home or at the pub, her beverages of choice include Belgian ales, Dalmore whisky, or a Sonoma red."
+                     ],
+                     "br": [
+                        []
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "Learn more on",
+                        "and",
+                        "."
+                     ],
+                     "a": [
+                        {
+                           "@href": "https://www.facebook.com/events/551283388934661/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Facebook"
+                        },
+                        {
+                           "@href": "https://www6.slac.stanford.edu/slac-on-tap/battery-walks-bar",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "SLAC's website"
+                        }
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 10 Jan 2020 11:56:37 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/865/86511/86511-2.jpg",
+               "@length": "74078"
+            }
+         },
+         {
+            "title": "Louise Glück Reading, the Mohr Visiting Poet",
+            "link": "http://events.stanford.edu/events/857/85743",
+            "guid": "http://events.stanford.edu/events/857/85743",
+            "description": [
+               "Date: Monday, January 27, 2020. 8:00 PM.",
+               "Location: Bechtel Conference Center",
+               [
+                  "Louise Glück",
+                  "Free and open to the public. No tickets or reservations required.",
+                  {
+                     "em": "Photo by Katherine Wolkoff"
+                  },
+                  "The Mohr Visiting Poet.",
+                  {
+                     "#text": [
+                        "Louise Glück is one of America’s most honored contemporary poets. Winner of the Pulitzer Prize, Glück is a former Poet Laureate of the United States and the author of a dozen widely acclaimed books. Stephen Dobyns, writing in the",
+                        ", said “no American poet writes better than Louise Glück, perhaps none can lead us so deeply into our own nature.” Pulitzer Prize winner Robert Hass has called her “one of the purest and most accomplished lyric poets now writing.”"
+                     ],
+                     "em": "New York Times Book Review"
+                  },
+                  {
+                     "#text": [
+                        "Glück's work is noted for its emotional intensity and technical precision; her language, staunchly straightforward, is clear and refined, so-much-so one does \"not see the intervening fathoms.” Glück's considerable accomplishments as a poet are apparent in the volume",
+                        "."
+                     ],
+                     "a": {
+                        "@href": "http://www.indiebound.org/book/9780374126087",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "em": "Poems: 1962-2012"
+                     }
+                  },
+                  {
+                     "#text": [
+                        "Gluck’s most recent collection,",
+                        ", won the",
+                        ". Other recent books are",
+                        "(2009), which was shortlisted for the International Griffin Poetry Prize, and",
+                        "(2006), which was nominated for the National Book Award, won the L.L. Winship/PEN New England Award, and was listed by",
+                        "as one of the 100 Notable Books of the Year."
+                     ],
+                     "a": [
+                        {
+                           "@href": "http://www.indiebound.org/book/9780374152017",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "em": "Faithful and Virtuous Night"
+                        },
+                        {
+                           "@href": "http://www.nationalbook.org/nba2014_p_gluck.html",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "2014 National Book Award for Poetry"
+                        },
+                        {
+                           "@href": "http://www.indiebound.org/book/9780374532437",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "em": "A Village Life"
+                        },
+                        {
+                           "@href": "http://www.indiebound.org/book/9780374530747",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "em": "Averno"
+                        }
+                     ],
+                     "em": [
+                        "The",
+                        "New York Times Book Review"
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "In addition to the Pulitzer Prize and National Book Critics Circle Award, Glück has received many honors. In 2001, she was awarded the Bollingen Prize, given biennially for a poet's lifetime achievement. And in 2008, Glück received the Wallace Stevens Award for “outstanding and proven mastery in the art of poetry.” Her other honors include the Lannan Literary Award for Poetry, the M.I.T. Anniversary Medal, a fellowship from the National Endowment for the Arts, and the Gold Medal for Poetry from the American Academy of Arts and Letters, a distinction that is given every six years. In addition, Louise Glück received the",
+                        "."
+                     ],
+                     "a": {
+                        "@href": "http://www.neh.gov/about/awards/national-humanities-medals/louise-gl%C3%BCck",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "2015 National Humanities Medal from the National Endowment for the Humanities"
+                     }
+                  },
+                  "Glück is currently Rosenkranz writer-in-residence at Yale University. She was elected a Chancellor of the Academy of American Poets from 1999 – 2005, and she is a currently member of the American Academy and Institute of Arts and Letters."
+               ]
+            ],
+            "pubDate": "Mon, 04 Nov 2019 12:27:16 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/857/85743/85743-1.jpg",
+               "@length": "21977"
+            }
+         },
+         {
+            "title": "Cold War Democracy: The United States and Japan",
+            "link": "http://events.stanford.edu/events/861/86181",
+            "guid": "http://events.stanford.edu/events/861/86181",
+            "description": [
+               "Date: Tuesday, January 28, 2020. 4:30 PM.",
+               "Location: East Asia (Lathrop) Library, Room 224, 518 Memorial Way",
+               [
+                  {
+                     "em": {
+                        "strong": "About the talk:"
+                     }
+                  },
+                  "Has American foreign policy been a reflection of a desire to promote democracy, or a simple product of hard-nosed geopolitics? In this talk, Jennifer Miller argues that democratic ideals were crucial, but not in the way most defenders claim. Focusing on the postwar occupation of Japan, she examines how the Cold War produced a new understanding of democracy as rooted in psychologies and mentalities. This vision motivated American efforts to democratize postwar Japan, yet also facilitated America’s rapprochement with the political and military leaders that once led Japan’s brutal war.",
+                  {
+                     "#text": [
+                        "This talk is free and open to the public. Please",
+                        "."
+                     ],
+                     "a": {
+                        "@href": "https://forms.gle/UszVvgGPugYXPZqv6",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "RSVP here"
+                     }
+                  },
+                  {
+                     "em": {
+                        "strong": "About the speaker:"
+                     }
+                  },
+                  {
+                     "#text": [
+                        "Jennifer M. Miller is an Assistant Professor of History at Dartmouth College.  She received her MA and PhD from the University of Wisconsin-Madison and her BA from Wesleyan University.  A scholar of U.S.-East Asian relations, she is the author of",
+                        "(Harvard University Press, 2019).",
+                        "was named a",
+                        "Outstanding Academic Title for 2019.  Her other recent publications include “Let’s Not Be Laughed at Anymore: Donald Trump and Japan from the 1980s to the Present” (",
+                        ", 2018) and “Fractured Alliance: Anti-Base Protests and Postwar U.S.-Japanese Relations” (",
+                        ", 2014)."
+                     ],
+                     "em": [
+                        "Cold War Democracy: The United States and Japan",
+                        "Cold War Democracy",
+                        "Choice",
+                        "Journal of American-East Asian Relations",
+                        "Diplomatic History"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:17:16 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/861/86181/86181-1.jpg",
+               "@length": "199840"
+            }
+         },
+         {
+            "title": "Film Screening: Silenced: Composers in Revolutionary Russia",
+            "link": "http://events.stanford.edu/events/863/86334",
+            "guid": "http://events.stanford.edu/events/863/86334",
+            "description": [
+               "Date: Tuesday, January 28, 2020. 6:00 PM.",
+               "Location: Oshman Hall, McMurtry Building",
+               [
+                  "The second part of the three-part documentary series “Music, War and Revolution” is dedicated to Russian composers of the late teens and early ’20s of the last century. The former “young wild ones,” composers such as Arthur Lourié, Nikolai Roslawets, Alexander Mosolov as well as Vladimir Deshevov and Lev Termen remain to this day relatively and unjustly unknown and their lives have remained largely unexplored. However, this generation injected life into the musical world of that time, greatly leaving their mark. The young composers were adventuresome; they flirted with futurism, wrote the first twelve-tone chord of musical history, invented the first electronic musical instrument and created sounds previously unheard.",
+                  "Rediscovering these composers who were banned, partly forgotten and erased from the musical landscape – as well as providing room for their absolutely enchanting music that is unjustly only rarely heard – gives this documentary its purpose. By tracing their personal and artistic vitae, the political and cultural climate and the reality of life in Russia in the early 20th century, the documentary aims to bring these composers to life once again and to reveal the links between art, society and politics. In addition, musicologists, composers, musicians and descendants illuminate the composers’ fates from their perspective and establish both cultural references as well as the historical and political context.",
+                  {
+                     "#text": [
+                        "After the film screening, a post-screening lecture with Professor Peter J. Schmelz will take place on",
+                        ". Peter J. Schmelz is Associate Professor of Musicology at Arizona State University, Tempe. His first book,",
+                        "(Oxford, 2009) received an ASCAP Deems Taylor Award in 2010. His book",
+                        "was published by Oxford University Press in 2019; he has also completed the manuscript for his book",
+                        ". He is currently a Guggenheim Fellow and is working on two new books. The first is called:",
+                        ". The second is about experimental music in the 1980s USSR, including the music of the Ganelin-Chekasin-Tarasov Trio, Sergey Kuryokhin and Pop-Mekhanika, Valentina Ponomaryova, and the group Auktsyon."
+                     ],
+                     "em": [
+                        "Censorship, Artisitic Freedom and the Avant-Garde",
+                        "Such Freedom, If Only Musical: Unofficial Soviet Music during the Thaw",
+                        "Alfred Schnittke’s Concerto Grosso no. 1",
+                        "Sonic Overload: Alfred Schnittke, Valentin Silvestrov and Polystylism in the Late USSR",
+                        "Cold War Intimacies: A Ukrainian Composer, Conductor, and Musicologist Struggle for Independence, Recognition, and the Avant-Garde in the 1960s"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:20:28 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/863/86334/86334-1.jpg",
+               "@length": "295675"
+            }
+         },
+         {
+            "title": "Film Screening: The Burnt City",
+            "link": "http://events.stanford.edu/events/862/86272",
+            "guid": "http://events.stanford.edu/events/862/86272",
+            "description": [
+               "Date: Tuesday, January 28, 2020. 6:30 PM.",
+               "Location: Geology Corner, Building 320, Room 105",
+               [
+                  "The documentary feature film “The Burnt City” (Shahre Sukhte), produced and directed by Nasser Pooyesh, explores one of the historic wonders of Iran, indeed of the world. The Burnt City, located in Iran’s Sistan-Baluchistan province, began to be inhabited more than 3,000 years B.C.E. The discovery is considered an archeological finding for the ages, and the film offers rare insight into its discovery and the civilization that inhabited it.",
+                  "*Film is in Persian/Farsi with English subtitles. Screening will be followed by a Skype discussion with the director, in Persian/Farsi and live-translated to English.",
+                  "This film is the second feature film by Nasser Pooyesh. His first film, “Alike Infatuation” has not been cleared for screening due to government auditing for the past five years. Nasser Pooyesh began his art career in 1990 as a film critic and editor in chief. He later worked as an assistant screenwriter and director to cinematographers such as Abbas Kiarostami and Amir Ghavidel. To date, he has made close to 150 documentary films about different cultural heritage sites as a director, writer, and producer. Nasser has also been active in the field of photography for over 30 years and has participated in many solo and group photo exhibitions inside Iran and abroad.",
+                  {
+                     "em": "Part of the Stanford Festival of Iranian Arts"
+                  }
+               ]
+            ],
+            "pubDate": "Wed, 08 Jan 2020 09:01:29 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86272/86272-2.jpg",
+               "@length": "54138"
+            }
+         },
+         {
+            "title": "Choir of Trinity College, Melbourne, with special guest the Stanford Chamber Chorale",
+            "link": "http://events.stanford.edu/events/845/84530",
+            "guid": "http://events.stanford.edu/events/845/84530",
+            "description": [
+               "Date: Wednesday, January 29, 2020. 7:30 PM.",
+               "Location: Memorial Church",
+               [
+                  {
+                     "#text": [
+                        "The",
+                        ", presents an exciting and diverse program of choral artistry featuring Frank Ferko's",
+                        "plus works by Tallis, Byrd, Stanford, Vaughan Williams, Howells, Whitacre, McDonald, and others. The",
+                        "will join them to present two works collaboratively."
+                     ],
+                     "a": [
+                        {
+                           "@href": "http://www.choirsofmelbourne.com/ChoirOfTrinityCollege.html",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "strong": "Choir of Trinity College, Melbourne"
+                        },
+                        {
+                           "@href": "https://chorale.stanford.edu/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "strong": "Stanford Chamber Chorale"
+                        }
+                     ],
+                     "em": "American Folksongs"
+                  },
+                  {
+                     "strong": "Choir of Trinity College, Melbourne",
+                     "br": [],
+                     "#text": "Christopher Watson, Director"
+                  },
+                  {
+                     "strong": "Stanford Chamber Chorale",
+                     "br": [],
+                     "#text": "Stephen M. Sano, Director"
+                  },
+                  {
+                     "strong": "Admission Info"
+                  },
+                  "Free"
+               ]
+            ],
+            "pubDate": "Fri, 23 Aug 2019 14:00:21 PDT",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/845/84530/84530-1.jpg",
+               "@length": "166432"
+            }
+         },
+         {
+            "title": "Film Screening: “Becoming Who I Was”",
+            "link": "http://events.stanford.edu/events/847/84739",
+            "guid": "http://events.stanford.edu/events/847/84739",
+            "description": [
+               "Date: Thursday, January 30, 2020. 07:00 PM.",
+               "Location: Pigott Hall, 260-113",
+               [
+                  {
+                     "#text": "Film Screening:",
+                     "a": {
+                        "@href": "http://cargofilm-releasing.com/films/becoming-who-i-was/",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "“Becoming Who I Was” (2016)"
+                     }
+                  },
+                  {
+                     "a": [
+                        {
+                           "@href": "https://www.google.com/search?client=safarirls=enq=becoming+who+i+was+directorsstick=H4sIAAAAAAAAAOPgE-LVT9c3NEw3MDI1KU5K0hLLTrbST8vMyQUTVimZRanJJflFi1hlklKT83Mz89IVyjPyFTIVyhOLFWCyxQDWNOlgSAAAAAsa=Xved=2ahUKEwjqg4ucvqPkAhWUu54KHap1ApsQ6BMoADAiegQIDxAI",
+                           "@target": "_blank",
+                           "@data-ved": "2ahUKEwjqg4ucvqPkAhWUu54KHap1ApsQ6BMoADAiegQIDxAI",
+                           "@rel": "noopener",
+                           "#text": "Directors"
+                        },
+                        {
+                           "@href": "https://www.google.com/search?client=safarirls=enq=Moon+Chang-yongstick=H4sIAAAAAAAAAOPgE-LVT9c3NEw3MDI1KU5KUoJwkw3LiytTCsu0xLKTrfTTMnNywYRVSmZRanJJftEiVn7f_Pw8BeeMxLx03cr8vHQAWuzoQUoAAAAsa=Xved=2ahUKEwjqg4ucvqPkAhWUu54KHap1ApsQmxMoATAiegQIDxAJ",
+                           "@target": "_blank",
+                           "@data-ved": "2ahUKEwjqg4ucvqPkAhWUu54KHap1ApsQmxMoATAiegQIDxAJ",
+                           "@rel": "noopener",
+                           "#text": "Moon Chang-yong"
+                        },
+                        {
+                           "@href": "https://www.google.com/search?client=safarirls=enq=Jeon+Jinstick=H4sIAAAAAAAAAOPgE-LVT9c3NEw3MDI1KU5KUoJwkw3Li01NjNK1xLKTrfTTMnNywYRVSmZRanJJftEiVg6v1Pw8Ba_MPAAmC83NQwAAAAsa=Xved=2ahUKEwjqg4ucvqPkAhWUu54KHap1ApsQmxMoAjAiegQIDxAK",
+                           "@target": "_blank",
+                           "@data-ved": "2ahUKEwjqg4ucvqPkAhWUu54KHap1ApsQmxMoAjAiegQIDxAK",
+                           "@rel": "noopener",
+                           "#text": "Jeon Jin"
+                        }
+                     ],
+                     "#text": [
+                        ":",
+                        ","
+                     ]
+                  },
+                  {
+                     "#text": [
+                        "Professor",
+                        "will introduce the film and take questions after the showing."
+                     ],
+                     "em": "James Gentry"
+                  },
+                  "\"After being identified as the reincarnation of a venerated Buddhist master, young Padma Angdu makes an arduous journey with his aging guardian from Northern India to Tibet to find his rightful place in the world.\"",
+                  "Co-Sponsored by the Ho Center for Buddhist Studies at Stanford",
+                  {
+                     "#text": "This event belongs to the following series:",
+                     "a": {
+                        "@href": "https://buddhiststudies.stanford.edu/events/series/tibetan-studies-initiative",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "Tibetan Studies Initiative"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:19:52 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/847/84739/84739-1.jpg",
+               "@length": "18741"
+            }
+         },
+         {
+            "title": "Community Conversations on Mental Health and Well-being",
+            "link": "http://events.stanford.edu/events/864/86418",
+            "guid": "http://events.stanford.edu/events/864/86418",
+            "description": [
+               "Date: Ongoing from February 3, 2020 through February 4, 2020. See details for exact dates and times.",
+               "Location: Main campus (Paul Brest Hall) and the Redwood City campus",
+               [
+                  "Stanford is organizing a two-day conversation (February 3 and 4) on mental health and well-being for our entire campus community — students, postdocs, staff, and faculty. Through a series of workshops, roundtables, and presentations, we want to shine a light on mental health and well-being, dispel any stigmas associated with mental illness, and empower our community members with tools that will help them manage stress, build resilience, support others, and ultimately, thrive. There will be more than a dozen sessions devoted to the areas of self-care, belonging, family issues, and classroom concerns — open to all Stanford community members — on such topics as cultural barriers to care; sleep and mental health; coping with loss and grief; neurodiversity; emotional regulation: suicide prevention; the difference between sadness, stress, and depression; destressing the curriculum; caring for elderly parents; and more.",
+                  {
+                     "em": {
+                        "#text": [
+                           "This event is organized in collaboration with Stanford’s existing mental health resource offices, the",
+                           "and Stanford Mental Health Coalition."
+                        ],
+                        "a": {
+                           "@href": "https://religiouslife.stanford.edu/",
+                           "@target": "_blank",
+                           "@data-auth": "NotApplicable",
+                           "@rel": "noopener",
+                           "#text": "Office of Religious Life,"
+                        }
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 10 Jan 2020 06:12:55 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/864/86418/86418-3.jpg",
+               "@length": "98325"
+            }
+         },
+         {
+            "title": "AI for Good Seminar Series - AI for Government",
+            "link": "http://events.stanford.edu/events/862/86290",
+            "guid": "http://events.stanford.edu/events/862/86290",
+            "description": [
+               "Date: Monday, February 3, 2020. 4:30 PM.",
+               "Location: William R. Hewlett Teaching Center (Room 200) - 370 Serra Mall, Stanford, CA 94305",
+               [
+                  {
+                     "strong": "AI for Government"
+                  },
+                  "In what areas of government can AI be effective?  Where does AI pose a risk to systems of government?  What role do governments play in policing how AI is used? This session will explore these and other questions about the role of AI in government.",
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "https://law.stanford.edu/directory/david-freeman-engstrom/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "David Freeman Engstrom"
+                        },
+                        "#text": "- Professor and Associate Dean for Strategic Initiatives, Stanford Law School"
+                     }
+                  },
+                  "David Freeman Engstrom is the Bernard D. Bergreen Faculty Scholar and an Associate Dean at Stanford Law School.  He is an elected member of the American Law Institute and a faculty affiliate at the Stanford Institute for Human-Centered AI, CodeX: The Stanford Center for Legal Informatics, and the Regulation, Evaluation, and Governance Lab (RegLab).  He received a J.D. from Stanford Law School, an M.Sc. from Oxford University, and a Ph.D. in political science from Yale University and clerked for Chief Judge Diane P. Wood on the U.S. Court of Appeals for the Seventh Circuit.  Before joining Stanford's faculty, he practiced law, representing clients before the U.S. Supreme Court and other courts and agencies.",
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "https://law.stanford.edu/directory/daniel-e-ho/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Daniel Ho"
+                        },
+                        "#text": "- Professor, Stanford Law School"
+                     }
+                  },
+                  "Daniel Ho is the William Benjamin Scott and Luna M. Scott Professor of Law, Professor of Political Science, and Senior Fellow at the Stanford Institute for Economic Policy Research at Stanford University. Dr. Ho received his J.D. from Yale Law School and Ph.D. from Harvard University and clerked for Judge Stephen F. Williams on the U.S. Court of Appeals, District of Columbia Circuit.  He directs the Regulation, Evaluation, and Governance Lab (RegLab) at Stanford, is a Faculty Fellow at the Center for Advanced Study in the Behavioral Sciences, and is an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI).",
+                  {
+                     "#text": "Livestream this event here:",
+                     "a": {
+                        "@href": "https://livestream.com/accounts/1973198/AI-For-Good",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://livestream.com/accounts/1973198/AI-For-Good"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 10:22:11 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86290/86290-1.jpg",
+               "@length": "65650"
+            }
+         },
+         {
+            "title": "Stanford Medicine Health Policy Forum | Responding to Gun Violence in America",
+            "link": "http://events.stanford.edu/events/861/86139",
+            "guid": "http://events.stanford.edu/events/861/86139",
+            "description": [
+               "Date: Tuesday, February 4, 2020. 12:00 PM.",
+               "Location: Clark Center Auditorum",
+               [
+                  "Nearly 40,000 Americans die from gunshot wounds each year. Many people despair of ever reducing the public health and safety damage of firearms, but effective, evidence-informed policies are available. Join us as leading experts reveal ways to reduce the prevalence of gun violence and to care for its victims.",
+                  {
+                     "strong": "Maya Rossin-Slater",
+                     "#text": ", Assistant Professor of Medicine (Health Services Research)"
+                  },
+                  {
+                     "strong": "Kathy Staats",
+                     "#text": ", Clinical Assistant Professor, Emergency Medicine"
+                  },
+                  {
+                     "strong": "David Studdert",
+                     "#text": ", Professor of Medicine, Primary Care Outcomes Research and of Law"
+                  },
+                  {
+                     "strong": "Paul Costello",
+                     "#text": "(moderator), Senior Communications Strategist, Stanford Medicine"
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 06 Jan 2020 10:55:22 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/861/86139/86139-1.jpg",
+               "@length": "17053"
+            }
+         },
+         {
+            "title": "Gallery Talk | The Melancholy Museum: Love, Death, and Mourning at Stanford",
+            "link": "http://events.stanford.edu/events/853/85387",
+            "guid": "http://events.stanford.edu/events/853/85387",
+            "description": [
+               "Date: Ongoing from February 6, 2020 through February 6, 2020. See details for exact dates and times.",
+               "Location: Cantor Arts Center",
+               [
+                  "A Mark Dion Project",
+                  "Using over 700 items from the Stanford Family Collections, artist Mark Dion’s new exhibition explores how Leland Stanford Jr.’s death at age 15 led to the creation of a museum, university, and—by extension—the entire Silicon Valley.",
+                  "Dion spent more than a year culling through the over 6,000 objects in the original Stanford Family Collections to create an exhibition that explores young Leland’s collection—he already was an avid and curious collector at the time of his death—as well as important narratives related to the Stanford family. These include the history of the railroads and the laborers who worked to create it, and the two earthquakes that caused major damage to the museum.",
+                  "The result of Dion’s efforts are two rooms filled with beautiful, startling, and quirky objects that are grouped together to highlight the Stanford family’s story and to invite visitors to reflect and make their own connections."
+               ]
+            ],
+            "pubDate": "Wed, 11 Dec 2019 14:15:14 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/853/85387/85387-1.jpg",
+               "@length": "65808"
+            }
+         },
+         {
+            "title": "Bali Sahota - \"The Little Clay Cart on the Way to Epic Theater\"",
+            "link": "http://events.stanford.edu/events/861/86170",
+            "guid": "http://events.stanford.edu/events/861/86170",
+            "description": [
+               "Date: Thursday, February 6, 2020. 12:00 PM.",
+               "Location: Encina Commons, Rm 123",
+               {
+                  "p": {
+                     "#text": [
+                        "If, as one of his contemporaries claims, the classic Sanskrit play",
+                        "planted the seed for what would evolve as Bertolt Brecht’s hallmark epic theater, one might ask what it was about the play that suggests alternatives to Western models? What were the implications of these alternatives in the revolutionary tumult of the Weimar Republic in which Brecht encountered and espoused Marxism as his primary political outlook?  Apart from attempting to answer these questions, this presentation will also look at how",
+                        "and Brechtian form in general took off in postcolonial India under the auspices of the playwrights Habib Tanvir and Safdar Hashmi in particular."
+                     ],
+                     "em": [
+                        "The Little Clay Cart",
+                        "The Little Clay Cart"
+                     ]
+                  }
+               }
+            ],
+            "pubDate": "Mon, 06 Jan 2020 08:41:08 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/861/86170/86170-1.jpg",
+               "@length": "104020"
+            }
+         },
+         {
+            "title": "An Evening with Nathan Englander",
+            "link": "http://events.stanford.edu/events/859/85987",
+            "guid": "http://events.stanford.edu/events/859/85987",
+            "description": [
+               "Date: Thursday, February 6, 2020. 6:00 PM.",
+               "Location: Bender Room",
+               [
+                  {
+                     "strong": "Jewish Community Federation and Endowment Fund Lecture"
+                  },
+                  {
+                     "#text": [
+                        "Nathan Englander is the author of the novels",
+                        "and",
+                        ", and the story collections",
+                        "and",
+                        "—winner of the Frank O’Connor International Short Story Award and finalist for the Pulitzer Prize. His short fiction has been widely anthologized, most recently in",
+                        ". Englander’s play,",
+                        ", premiered at The Public Theater in 2012. He translated the",
+                        "and co-translated Etgar Keret’s",
+                        ". He is Distinguished Writer-in-Residence at New York University, and lives in Brooklyn, New York, with his wife and daughter."
+                     ],
+                     "em": [
+                        "Dinner at the Center of the Earth",
+                        "The Ministry of Special Cases",
+                        "For the Relief of Unbearable Urges",
+                        "What We Talk About When We Talk About Anne Frank",
+                        "100 Years of the Best American Short Stories",
+                        "The Twenty-Seventh Man",
+                        "New American Haggadah",
+                        "Suddenly a Knock on the Door"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Mon, 13 Jan 2020 08:25:37 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/859/85987/85987-2.jpg",
+               "@length": "18029"
+            }
+         },
+         {
+            "title": "there is no Other: musical routes to racial justice | 15th Annual Anne and Loren Kieve Lecture",
+            "link": "http://events.stanford.edu/events/862/86229",
+            "guid": "http://events.stanford.edu/events/862/86229",
+            "description": [
+               "Date: Thursday, February 6, 2020. 7:00 PM.",
+               "Location: Bechtel Conference Center",
+               [
+                  {
+                     "#text": [
+                        "Please join the Center for Comparative Studies in Race and Ethnicity and Stanford Live for the",
+                        "and Demonstration with multi-instrumentalist and musicologist Rhiannon Giddens. Giddens is a founding member of the Grammy-winning American roots band, the Carolina Chocolate Drops, a 2017 MacArthur Genius Award recipient and a regular on CMT’s",
+                        "."
+                     ],
+                     "strong": "15th Annual Anne and Loren Kieve Distinguished Lecture",
+                     "em": "Nashville"
+                  },
+                  "Giddens’ brilliant work traces the 19th century evolution of the banjo from its West African origins and its subsequent travels among black and white communities within the U.S. and ultimately across the globe. She unmasks the little-known, painful history of black erasure in grassroots “American” music and cultures, guiding audiences to think about music in racialized terms.",
+                  {
+                     "#text": [
+                        "In her latest album,",
+                        ", Giddens incorporates Arabic and Middle Eastern traditions in collaboration with Italian jazz multi-instrumentalist Francesco Turrisi, merging parallel histories of marginalization in a transnational context."
+                     ],
+                     "em": "there is no Other"
+                  },
+                  "Having earned a degree in Opera Theater from Oberlin Conservatory, Giddens shows the depth of her talent and relentless focus on untold stories in the score she wrote for Nashville Ballet’s groundbreaking “Lucy Negro Redux,” based on the “Dark Lady” whom appears in William Shakespeare’s sonnets.",
+                  "Giddens’ voice and musicianship – along with her bold exploration of racialized music histories within and beyond the U.S. as well as her powerful storytelling – will broaden your mind, heart and soul.",
+                  "Francesco Turrisi is an Italian pianist and percussionist well versed in jazz, early music and Mediterranean music. He researches Southern Italian Tamburello (tambourine) traditions and paths of music between the Middle East and Europe."
+               ]
+            ],
+            "pubDate": "Wed, 11 Dec 2019 14:16:46 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86229/86229-1.jpg",
+               "@length": "63438"
+            }
+         },
+         {
+            "title": "NOON CONCERT: Seunghee Lee, haegeum",
+            "link": "http://events.stanford.edu/events/858/85826",
+            "guid": "http://events.stanford.edu/events/858/85826",
+            "description": [
+               "Date: Friday, February 7, 2020. 12:30 PM.",
+               "Location: Campbell Recital Hall",
+               [
+                  {
+                     "#text": [
+                        "Seunghee Lee,",
+                        "(a traditional Korean string instrument), plays",
+                        "Korean music by Hyo-shin Na,",
+                        "Korean music (traditional works), and"
+                     ],
+                     "em": [
+                        "haegeum",
+                        "new",
+                        "old",
+                        {
+                           "#text": "Haegeum Sanjo.",
+                           "br": []
+                        }
+                     ]
+                  },
+                  {
+                     "em": [],
+                     "strong": "Admission Info"
+                  },
+                  "Free"
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:29:41 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/858/85826/85826-1.jpg",
+               "@length": "194749"
+            }
+         },
+         {
+            "title": "Poetry Workshop with Monica Sok",
+            "link": "http://events.stanford.edu/events/859/85982",
+            "guid": "http://events.stanford.edu/events/859/85982",
+            "description": [
+               "Date: Friday, February 7, 2020. 3:00 PM.",
+               "Location: Harmony House",
+               {
+                  "p": {
+                     "#text": [
+                        "Monica Sok is a Cambodian American poet and the daughter of former refugees. She is the author of Year Zero, winner of a Poetry Society of America Chapbook Fellowship. Her work has been recognized with a \"Discovery\" Prize from 92Y. She teaches poetry to Southeast Asian youths at the Center for Empowering Refugees and Immigrants and Banteay Srei in Oakland, California. Her debut poetry collection",
+                        "is forthcoming from Copper Canyon Press in February 2020."
+                     ],
+                     "em": "A Nail the Evening Hangs On"
+                  }
+               }
+            ],
+            "pubDate": "Wed, 11 Dec 2019 14:17:04 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/859/85982/85982-1.jpg",
+               "@length": "36640"
+            }
+         },
+         {
+            "title": "Wooden Fish Ensemble",
+            "link": "http://events.stanford.edu/events/862/86233",
+            "guid": "http://events.stanford.edu/events/862/86233",
+            "description": [
+               "Date: Saturday, February 8, 2020. 2:30 PM.",
+               "Location: Campbell Recital Hall",
+               {
+                  "p": [
+                     "Wooden Fish Ensemble performs the music of Frederic Rzewski and Hyo-shin Na, as well as Korean folk songs.",
+                     {
+                        "strong": "Wooden Fish Ensemble"
+                     }
+                  ],
+                  "ul": [
+                     "Thomas Schultz, piano",
+                     "Hyo-shin Na, composer",
+                     "Ilana Blumberg, violin",
+                     {
+                        "#text": "Shoko Hikage,",
+                        "em": "koto"
+                     },
+                     {
+                        "#text": "Seunghee Lee,",
+                        "em": "haegeum"
+                     },
+                     {
+                        "#text": "Narae Kwon,",
+                        "em": "kayageum"
+                     }
+                  ]
+               }
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:29:59 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86233/64727-1.jpg",
+               "@length": "220138"
+            }
+         },
+         {
+            "title": "AI for Good Seminar Series - AI for Healthcare",
+            "link": "http://events.stanford.edu/events/862/86291",
+            "guid": "http://events.stanford.edu/events/862/86291",
+            "description": [
+               "Date: Monday, February 10, 2020. 4:30 PM.",
+               "Location: William R. Hewlett Teaching Center (Room 200) - 370 Serra Mall, Stanford, CA 94305",
+               [
+                  {
+                     "strong": "AI for Healthcare"
+                  },
+                  "Improving health requires targeting and evidence. Marzyeh tackles part of this puzzle with machine learning. This session will cover some of the novel technical opportunities for machine learning in health challenges, and the important progress to be made with careful application to domain.",
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "http://www.marzyehghassemi.com/profile/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Marzyeh Ghassemi"
+                        },
+                        "#text": "- Assistant Professor, Faculties of Computer Science  Medicine, University of Toronto and Vector Institute faculty member holding a Canadian CIFAR AI Chair and Canada Research Chair."
+                     }
+                  },
+                  "Professor Ghassemi has a well-established academic track record in personal research contributions across computer science and clinical venues, including KDD, AAAI, MLHC, JAMIA, JMIR, JMLR, Nature Translational Psychiatry, and Critical Care. She is an active member of the scientific community, on the Board of Women in Machine Learning (WiML), and co-organized the past three NIPS Workshop on Machine Learning for Health (ML4H). She serves as a NeurIPS 2019 Workshop Co-Chair, and Board Member of the Machine Learning for Health Unconference. Previously, she was a Visiting Researcher with Alphabet's Verily and a post-doc with Dr. Peter Szolovits at MIT (CV). Marzyeh targets “Healthy ML”, focusing on creating applying machine learning to understand and improve health.",
+                  "Professor Ghassemi completed her PhD at MIT where her research focused on machine learning in health care. Prior to MIT, she received a Master’s degree in biomedical engineering from Oxford University as a Marshall Scholar and B.S. degrees in computer science and electrical engineering as a Goldwater Scholar at New Mexico State University.",
+                  {
+                     "#text": "Livestream this event here:",
+                     "a": {
+                        "@href": "https://livestream.com/accounts/1973198/AI-For-Good",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://livestream.com/accounts/1973198/AI-For-Good"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 10:22:23 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86291/86291-1.jpg",
+               "@length": "89851"
+            }
+         },
+         {
+            "title": "Fictions of Truth: Dominant Narratives and the Strategic Framing of Local Transitional Justice",
+            "link": "http://events.stanford.edu/events/861/86194",
+            "guid": "http://events.stanford.edu/events/861/86194",
+            "description": [
+               "Date: Tuesday, February 11, 2020. 12:00 PM.",
+               "Location: Encina Commons, room 123",
+               [
+                  "Transitional justice (TJ) is suffering a legitimacy crisis. While recent critical TJ scholarship has touted the transformative potential of locally-rooted mechanisms as a possible means to \"save\" TJ, this budding literature rests on often shaky claims about the purported benefits of local TJ and provides inadequate attention to how domestic political interests and asymmetric power dynamics between local and national actors shape these initiatives on the ground.",
+                  {
+                     "#text": [
+                        "By taking these factors into account, speaker Adam Kochanski will contend that local TJ processes can be used to",
+                        "justice in ways that paradoxically allow ruling parties to avoid human rights accountability and to conceal the truth about wartime violations. He further argues that the principal method by which justice is subverted is not through overt manipulation by ruling parties, but rather, through subtle indirect \"distortional framing\" methods, which abusive postconflict regimes employ to set discursive limits around discussions of the past and to mask their own crimes. The case studies of Cambodia and Mozambique are considered in detail to reveal and to trace the processes by which distortional framing has been deployed as a technique to deflect justice."
+                     ],
+                     "em": "deflect"
+                  },
+                  {
+                     "#text": [
+                        "Adam Kochanski is the Postdoctoral Fellow in International Relations at the McGill University’s Centre for International Peace and Security Studies and a research fellow at Stanford University’s Center for Human Rights and International Justice. His research focuses on transitional justice, post-conflict peacebuilding, and norms of humanitarian protection. His book project,",
+                        ", explores the influence of domestic political interests and local-national power asymmetries on memory, reconciliation, and healing in communities recovering from armed conflict in Cambodia and Mozambique. His forthcoming article from this project in",
+                        "takes stock of the “local turn” in transitional justice and dissects several questionable assumptions underpinning both scholarship and practice in this area. Numerous fellowships and grants have supported his research, including from the Social Sciences and Humanities Research Council of Canada and International Development Research Centre. He holds a PhD in political science from the University of Ottawa. He completed a SSHRC postdoctoral fellowship at Stanford University’s Center for Human Rights and International Justice and was a research affiliate at UCLA’s Promise Institute for Human Rights."
+                     ],
+                     "em": [
+                        "Justice Deflected: The Uses and Abuses of Local Transitional Justice Processes",
+                        "International Studies Review"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:18:12 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/861/86194/86194-1.jpg",
+               "@length": "152712"
+            }
+         },
+         {
+            "title": "Carceral Imaginaries: A Panel on Arts, Race, and Incarceration",
+            "link": "http://events.stanford.edu/events/862/86251",
+            "guid": "http://events.stanford.edu/events/862/86251",
+            "description": [
+               "Date: Wednesday, February 12, 2020. 4:00 PM.",
+               "Location: Humanities Center Boardroom",
+               {
+                  "p": [
+                     {
+                        "#text": [
+                           "Please join the Stanford Arts Institute for a panel discussion with leading scholars on",
+                           ". The panelists will explore the intersection of criminal justice and narratives of incarceration. From the preservation of African music and dance by criminalized fugitives to contemporary representations of incarcerated youth, this panel will consider what the arts can illuminate about mass incarceration in America."
+                        ],
+                        "strong": [
+                           "Carceral Imaginaries: A Panel on Arts, Race, and Incarceration",
+                           []
+                        ]
+                     },
+                     {
+                        "strong": []
+                     },
+                     {
+                        "strong": {
+                           "a": {
+                              "@href": "https://arts.stanford.edu/arts-institute/arts-justice/",
+                              "@target": "_blank",
+                              "@rel": "noopener",
+                              "#text": "About Arts + Justice"
+                           }
+                        }
+                     },
+                     {
+                        "#text": [
+                           "Following the fifth-year anniversary of Eric Garner's death, and the Black Lives Matter movement,",
+                           "will discuss how art practices cultivate experiential and affective modes of witnessing. This series will bring artists, scholars, students, faculty, and community members in conversation about how art and culture generate productive counter-narratives in relation to representations of race, class, and capitalism within the American criminal justice system."
+                        ],
+                        "em": "Arts + Justice: Art, Race, and Mass Incarceration"
+                     },
+                     {
+                        "em": "Arts +Justice",
+                        "#text": "builds on existing justice reform efforts and allows the public to consider the role of the arts in generating criminal justice reform, and lasting social change, on a local and national level. As an interdisciplinary arts organization dedicated to academic arts programming, Stanford Arts Institute envisions this year's series as one installment of many talks between scholars and artists."
+                     },
+                     {
+                        "#text": [
+                           "Image: Amy Elkins,",
+                           ", 2009-Present."
+                        ],
+                        "em": "Parting Words"
+                     }
+                  ],
+                  "ul": [
+                     {
+                        "strong": "Ashley Lucas",
+                        "#text": [
+                           "is Associate Professor of Theatre  Drama and Director of the Prison Creative Arts Project at the University of Michigan. Lucas’s research and teaching interests include U.S. Latina/o theatre, prison theatre, theatre for social change, and related topics in acting, playwriting, and comparative ethnic studies.  Lucas is also the author of an ethnographic play about the families of prisoners titled",
+                           ", which she has performed as a one-woman show throughout the U.S. and in Ireland, Brazil, and Canada. Her forthcoming book",
+                           "(Methuen Press, Sept. 2020) examines the ways in which incarcerated people use theatre to counteract the dehumanizing forces of the prison."
+                        ],
+                        "em": [
+                           "Doin’ Time: Through the Visiting Glass",
+                           "Prison Theatre and the Global Crisis of Incarceration"
+                        ]
+                     },
+                     {
+                        "strong": "Ruby Tapia",
+                        "#text": [
+                           "is Associate Professor of English and Women's Studies and Chair of Women's Studies at the University of Michigan. Her research and teaching engage the intersections of photography theory, feminist and critical race theory, and critical prison studies. Her current book project,",
+                           "(forthcoming, Fordham University Press), interrogates the intersections of prison photography and carceral humanism and puts forth an argument and methodology for an abolitionist visuality."
+                        ],
+                        "em": "The Camera in the Cage"
+                     },
+                     {
+                        "strong": "Bryan Wagner",
+                        "#text": [
+                           "is Associate Professor in the English Department at the University of California, Berkeley. His research focuses on African American expression in the context of slavery and its aftermath, and he has secondary interests in legal history and vernacular culture. His books include",
+                           "(Harvard University Press, 2009),",
+                           "(Princeton University Press, 2017),",
+                           "(33 1/3 Series, Bloomsbury, 2019), and",
+                           "(Louisiana State University Press, 2019)."
+                        ],
+                        "em": [
+                           "Disturbing the Peace: Black Culture and the Police Power after Slavery",
+                           "The Tar Baby: A Global History",
+                           "The Wild Tchoupitoulas",
+                           "The Life and Legend of Bras-Coupé: The Fugitive Slave Who Fought the Law, Ruled the Swamp, Danced at Congo Square, Invented Jazz, and Died for Love"
+                        ]
+                     }
+                  ]
+               }
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:30:58 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86251/86251-1.jpg",
+               "@length": "247376"
+            }
+         },
+         {
+            "title": "Conversations in Global Health featuring Joanne Liu",
+            "link": "http://events.stanford.edu/events/860/86077",
+            "guid": "http://events.stanford.edu/events/860/86077",
+            "description": [
+               "Date: Wednesday, February 12, 2020. 6:00 PM.",
+               "Location: Li Ka Shing Center, Room 130",
+               [
+                  {
+                     "strong": "February 12, 2020 in Li Ka Shing, Room 130"
+                  },
+                  {
+                     "strong": [
+                        "Buffet Dinner",
+                        {
+                           "br": [],
+                           "#text": "Talk:"
+                        },
+                        {
+                           "br": [],
+                           "#text": "QA:"
+                        }
+                     ],
+                     "#text": [
+                        "6:00-6:45pm",
+                        "6:45-7:45pm",
+                        "7:45-8:00pm"
+                     ]
+                  },
+                  {
+                     "strong": "Joanne Liu",
+                     "#text": "has served as International President of Médecins Sans Frontières (MSF) from 2013 to 2019. MSF is a leading voice on medical humanitarian crises, providing medical assistance to those in need. Dr. Liu’s role builds on a career of field work with MSF, including over 20 medical missions. She trained at McGill University School of Medicine, and holds a Fellowship in Paediatric Emergency Medicine, as well as a Master’s in Health Leadership. Dr. Liu’s operational work has ranged from introducing comprehensive care for survivors of sexual violence, to developing a telemedicine platform for connecting doctors in rural areas with specialists worldwide. She believes strongly in MSF’s unique ability to operate in the field whilst delivering high-quality, patient-centered care."
+                  },
+                  {
+                     "#text": [
+                        "Stanford School of Medicine Senior Communications Strategist",
+                        "will interview Dr. Liu about her work."
+                     ],
+                     "strong": "Paul Costello"
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:26:30 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86077/86077-2.jpg",
+               "@length": "50545"
+            }
+         },
+         {
+            "title": "Clayman Institute Artist's Salon: A Tribute to Ada Lovelace Exploring AI and Human Expressivity",
+            "link": "http://events.stanford.edu/events/854/85473",
+            "guid": "http://events.stanford.edu/events/854/85473",
+            "description": [
+               "Date: Thursday, February 13, 2020. 4:15 PM.",
+               "Location: Levinthal Hall, Stanford Humanities Center",
+               {
+                  "p": {
+                     "#text": [
+                        "The Artist’s Salon presents Patricia Alessandrini, assistant professor in the Department of Music’s Center for Computer Research in Music and Acoustics. She will discuss",
+                        ", a composition for mezzo-soprano, ensemble, and a piano automata system employing artificial intelligence. In addition to using AI to generate musical material, it attempts to make real-time machine learning processes comprehensible to the public. Audio and video excerpts of a November 2019 performance of",
+                        "will be shown, in addition to live demonstrations of the machine-learning processes. The work is named for Ada Lovelace, a 19th-century mathematician who wrote what many consider the first computer program."
+                     ],
+                     "em": [
+                        "Ada’s Song",
+                        "Ada’s Song"
+                     ]
+                  }
+               }
+            ],
+            "pubDate": "Thu, 10 Oct 2019 12:54:34 PDT",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/854/85473/85473-2.jpg",
+               "@length": "287320"
+            }
+         },
+         {
+            "title": "Is a Responsible Conservatism Still Possible? Was It Ever?",
+            "link": "http://events.stanford.edu/events/845/84566",
+            "guid": "http://events.stanford.edu/events/845/84566",
+            "description": [
+               "Date: Thursday, February 13, 2020. 7:00 PM.",
+               "Location: Cubberley Auditorium",
+               [
+                  {
+                     "em": {
+                        "#text": [
+                           "Tickets (free) will be required for this event. They'll be available via this",
+                           "on Jan 23 @ 10am."
+                        ],
+                        "a": {
+                           "@href": "https://responsible-conservatism-kristol.eventbrite.com",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "link"
+                        }
+                     }
+                  },
+                  "Is a responsible and constructive conservatism still possible when President Trump is the leader of the Republican Party and conservatism is, apparently, being re-shaped as Trumpism? Or was conservatism always just a kind of disguised Trumpism? In any case, what are the key questions that will have to be answered in the next months and years in order to determine whether American conservatism has a future, and whether American conservatism is a defensible conservatism?",
+                  {
+                     "#text": [
+                        "Please join us for a talk by political analyst and commentator",
+                        ". He is a founding director of Defending Democracy Together, an educational and advocacy organization dedicated to defending America’s liberal democratic norms, principles and institutions. He has long been recognized as a leading participant in and analyst of American politics and has helped shape the national debate on issues ranging from American foreign policy to the meaning of American conservatism."
+                     ],
+                     "strong": "William Kristol"
+                  },
+                  "Kristol was a founder of the Weekly Standard in 1995 and edited the influential magazine for over two decades. Before starting the Weekly Standard, he led the Project for the Republican Future, where he helped developed the strategy that produced the 1994 Republican congressional victory. Early in his career, Kristol served in senior positions in the Ronald Reagan and George H.W. Bush Administrations.",
+                  "Before coming to Washington, Kristol taught politics at the University of Pennsylvania and Harvard University. He received his undergraduate degree and his Ph.D. from Harvard University.",
+                  "Ticket information will be forthcoming.",
+                  {
+                     "#text": [
+                        "This talk is part of the Ethics Center's",
+                        ", which honors the late Nobel Laureate Kenneth Arrow, the Joan Kenney Professor of Economics and Professor of Operations Research, Emeritus."
+                     ],
+                     "a": {
+                        "@href": "https://ethicsinsociety.stanford.edu/events/series/arrow-lectures",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "Arrow Lecture Series"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 10 Jan 2020 17:12:44 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/845/84566/84566-1.jpg",
+               "@length": "52208"
+            }
+         },
+         {
+            "title": "Film Screening: Buena Vista Social Club",
+            "link": "http://events.stanford.edu/events/863/86335",
+            "guid": "http://events.stanford.edu/events/863/86335",
+            "description": [
+               "Date: Tuesday, February 18, 2020. 6:00 PM.",
+               "Location: Oshman Hall, McMurtry Building",
+               {
+                  "p": {
+                     "#text": [
+                        "As we celebrate its 20th anniversary, join us for the",
+                        ". Traveling from the streets of Havana to the stage of Carnegie Hall, this revelatory documentary captures a forgotten generation of Cuba’s brightest musical talents as they enjoy an unexpected encounter with world fame. The veteran vocalists and instrumentalists collaborated with American guitarist and roots-music champion Ry Cooder to form the Buena Vista Social club, playing a jazz-inflected mix of cha-cha, mambo, bolero, and other traditional Latin American styles, and recording an album that won a Grammy and made them an international phenomenon. In the wake of this success, director Wim Wenders filmed the ensembles’ members-including golden-voiced Ibrahim Ferrer and piano virtuoso Rubén Gonzalez-in a series of illuminating interviews and live performances. The result is one of the most belove documentaries of the 1990’s, and an infectious ode to a neglected corner of Cuba’s prerevolutionary heritage."
+                     ],
+                     "em": "Buena Vista Social Club"
+                  }
+               }
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:34:24 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/863/86335/86335-1.jpg",
+               "@length": "203630"
+            }
+         },
+         {
+            "title": "Roanne Kantor- What Indian Poets Imagined Latin American Literature Could Do",
+            "link": "http://events.stanford.edu/events/863/86320",
+            "guid": "http://events.stanford.edu/events/863/86320",
+            "description": [
+               "Date: Thursday, February 20, 2020. 12:00 PM.",
+               "Location: Encina Commons, Rm 123",
+               [
+                  {
+                     "strong": "\"The one from which we aught to learn\": What Indian Poets Imagined Latin American Literature Could Do"
+                  },
+                  {
+                     "#text": [
+                        "In 1969, the poet Arvind Krishna Mehrotra wrote to his friend Adil Jussawalla \"",
+                        ".\" While we might think of Salman Rushdie and magical realism as the primary literary articulation points between these two regions, it was Mehrotra, Jussawalla, and their earlier generation of multilingual, polymath artists who pioneered a very different kind of investment in Latin America as a model for how to write \"World Literature.\""
+                     ],
+                     "em": "my heart's theory–we're part of Latin America...and their literature is the one from which we aught to learn"
+                  },
+                  {
+                     "#text": "But how did Indian authors get interested in Latin American literature in the fist place? How did they even get their hands on it? And why, over the past 70 years, has writing from a historically unrelated region in an unfamiliar tongue become the premier example – \"the one from which we aught to learn\" – half a world away? This talk traces the role of poet, essayist, and Nobel Laureate Octavio Paz, the Mexican ambassador to India from 1962-1969, as the nearly invisible engine through this literary imaginary consolidated for writers of Mehrotra's generation, and how his impact continues to be felt in Indian letters today.",
+                     "br": [],
+                     "strong": []
+                  },
+                  {
+                     "#text": [
+                        "Roanne Kantor is an Assistant Professor of English at Stanford University. Her book project,",
+                        ", considers the reception of Latin American writing in translation on authors from India and Pakistan, showing how that relationship fundamentally altered the trajectory of South Asian Anglophone literature from the 1960s to the present. Recent scholarship appears in Comparative Literature, Interventions: International Journal of Postcolonial Studies, and Comparative Studies of South Asia, Africa, and the Middle East, South Asia: Journal of South Asian Studies, among others. Kantor is also the translator of Juan Jose Saer's",
+                        "(2015) and the winner of the Susan Sontag Prize for Translation."
+                     ],
+                     "em": [
+                        "Countershelf: South Asian Authors, Latin American texts, and the Unexpected Journey to Global English",
+                        "The One Before"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 14:25:43 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/863/86320/86320-1.jpg",
+               "@length": "28398"
+            }
+         },
+         {
+            "title": "Crossing the Caspian:Persia and Europe, 1500-1700",
+            "link": "http://events.stanford.edu/events/860/86047",
+            "guid": "http://events.stanford.edu/events/860/86047",
+            "description": [
+               "Date: Thursday, February 20, 2020. 5:00 PM.",
+               "Location: Cantor Arts Center",
+               [
+                  {
+                     "#text": [
+                        "Curator Alexandria Brown-Hejazi, Ph.D. candidate in Art and Art History at Stanford, introduces the exhibition",
+                        "which explores the golden age of artistic exchange between the Safavid Empire of Persia and Europe."
+                     ],
+                     "em": "Crossing the Caspian"
+                  },
+                  {
+                     "#text": [
+                        "IMAGE: Attributed to Mu’in Musavvir (or his school) (Iran, active c. 1630–1697), Portrait of the",
+                        "the Grand Vazir Saru Taqi, before 1645. Gift of the Estate of Marion B. Pierstorff, 2005.97"
+                     ],
+                     "em": "“Pillar of the State,”"
+                  }
+               ]
+            ],
+            "pubDate": "Tue, 10 Dec 2019 15:43:33 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/860/86047/86047-3.jpg",
+               "@length": "71941"
+            }
+         },
+         {
+            "title": "Iran Reframed: Anxieties of Power in the Islamic Republic",
+            "link": "http://events.stanford.edu/events/862/86274",
+            "guid": "http://events.stanford.edu/events/862/86274",
+            "description": [
+               "Date: Thursday, February 20, 2020. 6:30 PM.",
+               "Location: Pigott Hall, Building 260, Room 113",
+               [
+                  "“An inside look at what it means to be pro-regime in Iran, and the debates around the future of the Islamic Republic.",
+                  "More than half of Iran's citizens were not alive at the time of the 1979 Revolution. Now entering its fifth decade in power, the Iranian regime faces the paradox of any successful revolution: how to transmit the commitments of its political project to the next generation. New media ventures supported by the Islamic Republic attempt to win the hearts and minds of younger Iranians. Yet members of this new generation—whether dissidents or fundamentalists—are increasingly skeptical of these efforts.",
+                  {
+                     "em": "Iran Reframed",
+                     "#text": "offers unprecedented access to those who wield power in Iran as they debate and define the future of the Republic. Over ten years, Narges Bajoghli met with men in Iran's Revolutionary Guard, Ansar Hezbollah, and Basij paramilitary organizations to investigate how their media producers developed strategies to court Iranian youth. Readers come to know these men—what the regime means to them and their anxieties about the future of their revolutionary project. Contestation over how to define the regime underlies all their efforts to communicate with the public. This book offers a multilayered story about what it means to be pro-regime in the Islamic Republic, challenging everything we think we know about Iran and revolution.”"
+                  },
+                  {
+                     "#text": [
+                        "Narges Bajoghli is Assistant Professor of Middle East Studies at the School of Advanced International Studies, Johns Hopkins University. She has written for",
+                        ",",
+                        ", and",
+                        ", and has appeared as a commentator on NPR, PBS, and the BBC. She is the director of the documentary",
+                        ", screened at The Hague, Hiroshima, Jaipur, and film festivals throughout the United States."
+                     ],
+                     "em": [
+                        "The",
+                        "New York Times Magazine",
+                        "The Guardian",
+                        "The Washington Post",
+                        "The Skin That Burns"
+                     ]
+                  }
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:21:46 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86274/86274-1.jpg",
+               "@length": "31011"
+            }
+         },
+         {
+            "title": "Storytelling Workshop with Sterling HolyWhiteMountain",
+            "link": "http://events.stanford.edu/events/859/85983",
+            "guid": "http://events.stanford.edu/events/859/85983",
+            "description": [
+               "Date: Friday, February 21, 2020. 2:00 PM.",
+               "Location: Native American Cultural Center",
+               {
+                  "p": "Sterling HolyWhiteMountain grew up on the Blackfeet Reservation in northwest Montana. His work has appeared in volumes 1 and 2 of Off the Path: An Anthology of 21st Century American Indian and Indigenous Writers, Montana Quarterly, and ESPN.com. For the past four years he has directed the writing center at Blackfeet Community College."
+               }
+            ],
+            "pubDate": "Thu, 09 Jan 2020 16:51:32 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/859/85983/85983-1.jpg",
+               "@length": "49880"
+            }
+         },
+         {
+            "title": "Dawn Harms and the Rhythm Sisters: Adventures in Music",
+            "link": "http://events.stanford.edu/events/845/84539",
+            "guid": "http://events.stanford.edu/events/845/84539",
+            "description": [
+               "Date: Monday, February 24, 2020. 9:30 AM.",
+               "Location: Dinkelspiel Auditorium",
+               [
+                  {
+                     "#text": "From Bach to the \"Orange Blossom Special\", violinist Dawn Harms's free family show will make children squeal with delight — they might play the violin for the first time, or come up and compose a piece right before your very eyes. You will have a blast with Dawn and her zany cast of characters. There is something for everyone. |",
+                     "em": [
+                        "Presented in partnership with the Friends of Music at Stanford.",
+                        []
+                     ]
+                  },
+                  {
+                     "strong": "Admission Info"
+                  },
+                  "Free"
+               ]
+            ],
+            "pubDate": "Wed, 08 Jan 2020 12:02:18 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/845/84539/65675-1.jpg",
+               "@length": "193972"
+            }
+         },
+         {
+            "title": "David Pershall, baritone: Voice Masterclass",
+            "link": "http://events.stanford.edu/events/847/84726",
+            "guid": "http://events.stanford.edu/events/847/84726",
+            "description": [
+               "Date: Monday, February 24, 2020. 4:30 PM.",
+               "Location: Campbell Recital Hall",
+               [
+                  {
+                     "#text": [
+                        "Guest artist",
+                        ", baritone, presents a masterclass for Stanford voice students. This event is open to the public."
+                     ],
+                     "a": {
+                        "@href": "https://davidpershall.com/",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "strong": "David Pershall"
+                     }
+                  },
+                  {
+                     "strong": "Admission Info"
+                  },
+                  "Free"
+               ]
+            ],
+            "pubDate": "Wed, 18 Dec 2019 12:24:43 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/847/84726/84726-1.jpg",
+               "@length": "152487"
+            }
+         },
+         {
+            "title": "AI for Good Seminar Series - AI for Human Rights",
+            "link": "http://events.stanford.edu/events/862/86292",
+            "guid": "http://events.stanford.edu/events/862/86292",
+            "description": [
+               "Date: Monday, February 24, 2020. 4:30 PM.",
+               "Location: William R. Hewlett Teaching Center (Room 200) - 370 Serra Mall, Stanford, CA 94305",
+               [
+                  {
+                     "strong": "AI for Human Rights"
+                  },
+                  "As a team of scientists working as statisticians for human rights, the Human Rights Data Analysis Group (HRDAG) partners with human rights advocacy organizations to identify questions that can be answered and arguments that can be strengthened using data science.  Dr. Price’s talk will highlight how data science and AI methods and tools are being used to tell stories, build cases, and answer important questions about the human toll of conflicts in Syria, Mexico, and Guatemala. She will also address the potential harm that can be done when relying on incomplete and imperfect data in domestic situations such as predictive policing of drug use in Oakland.",
+                  {
+                     "strong": {
+                        "a": {
+                           "@href": "https://hrdag.org/people/megan-price-phd/",
+                           "@target": "_blank",
+                           "@rel": "noopener",
+                           "#text": "Megan Price"
+                        },
+                        "#text": "- Executive Director of the Human Rights Data Analysis Group"
+                     }
+                  },
+                  "As the Executive Director of the Human Rights Data Analysis Group, Megan Price designs strategies and methods for statistical analysis of human rights data for projects in a variety of locations including Guatemala, Colombia, and Syria. Her work in Guatemala includes serving as the lead statistician on a project in which she analyzes documents from the National Police Archive; she has also contributed analyses submitted as evidence in two court cases in Guatemala. Her work in Syria includes serving as the lead statistician and author on three reports, commissioned by the Office of the United Nations High Commissioner of Human Rights (OHCHR), on documented deaths in that country.",
+                  "Megan is a member of the Technical Advisory Board for the Office of the Prosecutor at the International Criminal Court, on the Board of Directors for Tor, and a Research Fellow at the Carnegie Mellon University Center for Human Rights Science. She is the Human Rights Editor for the Statistical Journal of the International Association for Official Statistics (IAOS) and on the editorial board of Significance Magazine. She earned her doctorate in biostatistics and a Certificate in Human Rights from the Rollins School of Public Health at Emory University. She also holds a master of science degree and bachelor of science degree in Statistics from Case Western Reserve University.",
+                  {
+                     "#text": "Livestream this event here:",
+                     "a": {
+                        "@href": "https://livestream.com/accounts/1973198/AI-For-Good",
+                        "@target": "_blank",
+                        "@rel": "noopener",
+                        "#text": "https://livestream.com/accounts/1973198/AI-For-Good"
+                     }
+                  }
+               ]
+            ],
+            "pubDate": "Thu, 09 Jan 2020 10:22:35 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/862/86292/86292-1.jpg",
+               "@length": "76453"
+            }
+         },
+         {
+            "title": "Into the Twilight Zones: Art and Virtual/Augmented Reality in the West",
+            "link": "http://events.stanford.edu/events/855/85515",
+            "guid": "http://events.stanford.edu/events/855/85515",
+            "description": [
+               "Date: Thursday, February 27, 2020. 4:30 PM.",
+               "Location: Cantor Arts Center Auditorium",
+               {
+                  "p": [
+                     "Event Speakers",
+                     "It is the intention of this symposium to explore the challenges, opportunities, and limitations that the emergence of virtual and augmented reality offers artists and museums based in the American West. This event will investigate the ways art and technology are driving how art is experienced and the future of museums.",
+                     {
+                        "#text": [
+                           "This event is free and open to the public with prior registration as seating is limited.",
+                           "Advance online registration will open in January 2020, please check back then."
+                        ],
+                        "br": []
+                     }
+                  ],
+                  "ul": [
+                     "Jeremy Bailenson: Thomas More Storke Professor of Communications, Stanford University",
+                     "Elizabeth Merrit: Vice President of Strategic Foresight, Center for the Future of Museums",
+                     "Yelena Rachitsky: Executive Producer of Media, Oculus/Facebook",
+                     "Jennifer Steinkamp: VR Artist"
+                  ]
+               }
+            ],
+            "pubDate": "Wed, 08 Jan 2020 13:53:11 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/855/85515/85515-1.jpg",
+               "@length": "35909"
+            }
+         },
+         {
+            "title": "A Conversation with Jane Bunnett and Danae Olano moderated by Ned Sublette",
+            "link": "http://events.stanford.edu/events/863/86337",
+            "guid": "http://events.stanford.edu/events/863/86337",
+            "description": [
+               "Date: Thursday, February 27, 2020. 6:00 PM.",
+               "Location: Oshman Hall, McMurtry Building",
+               [
+                  "Jane Bunnett is a five-time Juno Award Winner. She has turned her bands and recordings into showcases for the finest musical talent from Canada, the US, and Cuba. She has been nominated for three Grammy Awards, received The Order of Canada, The Queen Diamond Jubilee Medal, and most recently, The Premier’s Award for Excellence. What started out as a project to record and mentor young, brilliant Cuban female musicians, Maqueque has become one of the top groups on the North American jazz scene.",
+                  "Danae Olano was born in Havana, Cuba in 1992 and currently tours as pianist for Maqueque. She obtained a Best Bachelor of Arts at the Conservatory of Music Roldan in Havana, then finalized her studies in the Superior Institute of Arts graduating cum laude. She captured a Juno award in 2015 in the Best Jazz Album category with Maqueque.",
+                  "Ned Sublette is a co-founder of Qbadisc and a producer with Afropop Worldwide. He created the cowboy rumba style, a fusion of rumba and country  western. He is a University of New Mexico graduate and a 2003-2004 fellow at the Dorothy and Lewis B. Cullman Center for Scholars and Writers at the New York Public Library, as well as a 2004-2005 Tulane Rockefeller Humanities Fellow in New Orleans. He has led a number of music and culture seminars for Americans in Cuba and is the producer of the 18-part Cuba Connection series on PRI's Afropop Worldwide as well as the co-creator of the current APWW \"Hip Deep\" series."
+               ]
+            ],
+            "pubDate": "Fri, 20 Dec 2019 11:35:03 PST",
+            "enclosure": {
+               "@url": "http://events.stanford.edu/events/863/86337/86337-1.jpg",
+               "@length": "388001"
+            }
+         }
+      ]
+   }
+}

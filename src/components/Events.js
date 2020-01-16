@@ -1,30 +1,40 @@
-import React, {useState, useEffect} from 'react';
-import '../App.css';
+import React from "react";
+import { render } from "react-dom";
+import "../App.css";
+
+//const apiUrl = "https://api.github.com/users";
+
+const apiUrl = "http://localhost:3000/RSSFeed.xml";
 
 function Events() {
+  const [items, setItems] = React.useState([]);
 
-  useEffect(() => {
-    fetchItems();
+  React.useEffect(() => {
+    async function fetchData() {
+      var data = await fetch(apiUrl).then(res => {
+        return res.json();
+      });
+      //console.log(data);
+      setItems(data);
+      console.log(data);
+    }
+    fetchData();
   }, []);
 
-  const [items, setItems] = useState([]);
-
-  const fetchItems = async () => {
-    const data = await fetch(
-      'https://fortnite-public-api.theapinetwork.com/prod09/upcoming/get'
-    );
-    const items = await data.json();
-    console.log(items.items);
-    setItems(items.items);
-  };
-
   return (
-    <div>
+    <div className="App">
       {items.map(item => (
-        <h1>{item.name}</h1>
+        <div className="card">
+          <img src={item.avatar_url} />
+          <div className="card-body">{item.login}</div>
+        </div>
       ))}
+      ;
     </div>
   );
 }
+
+render(<Events />, document.getElementById("root"));
+
 
 export default Events;

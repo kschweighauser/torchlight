@@ -16,6 +16,14 @@ function Nav() {
         <Link to="/events">
           <li>Events</li>
         </Link>
+        <ul>
+        <Link to="/events/addevent">
+          <li>Add Event</li>
+        </Link>
+        <Link to="/events/postevent">
+          <li>Post Event To Twitter</li>
+        </Link>
+        </ul>
       </ul>
     </div>
   );

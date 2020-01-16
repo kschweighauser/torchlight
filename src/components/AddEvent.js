@@ -3,6 +3,7 @@ import { Field, reduxForm } from 'redux-form';
 import '../App.css';
 
 //This is the general event form component.
+//https://codesandbox.io/s/mZRjw05yp for reference.
 const AddEvent = props => {
     const { handleSubmit, pristine, reset, submitting } = props;
     return (
@@ -37,6 +38,17 @@ const AddEvent = props => {
                             type="email"
                             placeholder="Enter Email"
                         />
+                    </div>
+                </div>
+                <div>
+                    <label>Date Time Place Holder, until date picker is used.</label>
+                    <div>
+                    <Field
+                        name="eventDateTime"
+                        component="input"
+                        type="text"
+                        placeholder="Date & Time"
+                    />
                     </div>
                 </div>
                 <div>

@@ -1,7 +1,6 @@
 import React from 'react';
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 import './App.css';
-import Nav from './components/Nav';
 import Header from './components/Header';
 import About from './components/About';
 import Events from './components/Events';
@@ -17,7 +16,6 @@ function App() {
     <>
       <div>
         <Router>
-          <Nav />
           <Header />
             <div>
               <Switch>
@@ -47,7 +45,7 @@ const Home = () => (
           Right content. Add your images or sidebar text to this side.
           <Sidebar />
       </div>
-    <div class="clear-floated"></div>
+    <div className="clear-floated"></div>
   </div>
 );
 

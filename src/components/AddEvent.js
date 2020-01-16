@@ -1,11 +1,14 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { Field, reduxForm } from 'redux-form';
+import DateFnsUtils from "@date-io/date-fns";
+import { DateTimePicker, MuiPickersUtilsProvider } from "@material-ui/pickers";
 import '../App.css';
 
 //This is the general event form component.
 //https://codesandbox.io/s/mZRjw05yp for reference.
 const AddEvent = props => {
     const { handleSubmit, pristine, reset, submitting } = props;
+    const [selectedDate, handleDateChange] = useState(new Date());
     return (
         <>
             <div className="App">
@@ -41,15 +44,11 @@ const AddEvent = props => {
                     </div>
                 </div>
                 <div>
-                    <label>Date Time Place Holder, until date picker is used.</label>
-                    <div>
-                    <Field
-                        name="eventDateTime"
-                        component="input"
-                        type="text"
-                        placeholder="Date & Time"
-                    />
-                    </div>
+                    <label>Date & Time of Event.</label>
+                    <br />
+                    <MuiPickersUtilsProvider utils={DateFnsUtils}>
+                        <DateTimePicker value={selectedDate} onChange={handleDateChange} />
+                    </MuiPickersUtilsProvider>
                 </div>
                 <div>
                     <label>Event Information</label>

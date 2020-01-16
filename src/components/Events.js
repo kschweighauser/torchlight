@@ -1,10 +1,10 @@
 import React from "react";
-import { render } from "react-dom";
 import "../App.css";
 
-//const apiUrl = "https://api.github.com/users";
-
-const apiUrl = "http://localhost:3000/RSSFeed.xml";
+const apiUrl = "https://api.github.com/users";
+//https://stackblitz.com/edit/react-fetch-usestate-and-useeffect-exampe?file=style.css
+//https://www.techiediaries.com/javascript-fetch-tutorial-and-example/
+//const apiUrl = "http://localhost:3000/RSSFeed.xml";
 
 function Events() {
   const [items, setItems] = React.useState([]);
@@ -16,16 +16,16 @@ function Events() {
       });
       //console.log(data);
       setItems(data);
-      console.log(data);
+      //console.log(data);
     }
     fetchData();
   }, []);
 
   return (
-    <div className="App">
+    <div className="App container">
       {items.map(item => (
-        <div className="card">
-          <img src={item.avatar_url} />
+        <div key={item.id} className="card">
+          <img src={item.avatar_url} alt={item.login} />
           <div className="card-body">{item.login}</div>
         </div>
       ))}
@@ -33,8 +33,5 @@ function Events() {
     </div>
   );
 }
-
-render(<Events />, document.getElementById("root"));
-
 
 export default Events;

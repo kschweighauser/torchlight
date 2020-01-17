@@ -21,7 +21,8 @@
     "redux": "^4.0.5",
     "redux-form": "^8.2.6",
     "tsutils": "^3.17.1",
-    "typescript": "^2.8.1"
+    "typescript": "^2.8.1",
+    "uuid": "^3.4.0"
   },
   "scripts": {
     "start": "react-scripts start",

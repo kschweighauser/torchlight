@@ -1,17 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from "react-redux";
-import { createStore, combineReducers } from "redux";
-import { reducer as formReducer } from "redux-form";
+import { createStore } from "redux";
+//import { reducer as formReducer } from "redux-form";
+import rootReducer from './reducers';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 
-const reducers = { form: formReducer };
-const reducer = combineReducers(reducers);
-let store = createStore(reducer);
-
+//const reducers = { form: formReducer };
+//const reducer = combineReducers(reducers);
+//let store = createStore(reducer);
+const store = createStore(rootReducer);
 const rootElement = document.getElementById("root");
 
 ReactDOM.render(

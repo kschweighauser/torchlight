@@ -12,8 +12,7 @@ const AddEvent = props => {
     return (
         <>
             <div className="App">
-                <h1>Add Event</h1>
-            </div>
+                <h1>Add Event</h1>            
             <form onSubmit={handleSubmit}>
                 <div>
                     <label>Location Name</label>
@@ -44,10 +43,12 @@ const AddEvent = props => {
                     </div>
                 </div>
                 <div>
-                    <label>Date & Time of Event.</label>
-                    <br />
                     <MuiPickersUtilsProvider utils={DateFnsUtils}>
-                        <DateTimePicker value={selectedDate} onChange={handleDateChange} />
+                        <DateTimePicker
+                            margin="normal"
+                            value={selectedDate}
+                            onChange={handleDateChange}
+                            label="Date & Time of Event" />
                     </MuiPickersUtilsProvider>
                 </div>
                 <div>
@@ -96,6 +97,7 @@ const AddEvent = props => {
                 Clear Values
                 </button>
         </form>
+        </div>
       </>
   );
 };
